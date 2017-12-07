@@ -1,0 +1,5 @@
+Execution Time, Current_Position, Buy_Sell, Trigger_Price, Execution_Price, PNL, REASON, RULE
+20160421  11:17:26,1,BUY,21624,21621,0,Place the BUY trade because TrendBuyLine=21624;,Trend Buy Rule
+20160421  14:50:12,0,SELL,21532,21532,-89,Cut Loss SELL trade| tickClose = 21625 | cutLossPrice = 21532 ,Cutloss Loss Rule
+20160421  15:59:12,1,BUY,21624,21624,0,Place the BUY trade because TrendBuyLine=21624;,Trend Buy Rule
+20160421  16:14:00,0,SELL,21606,21603,-21,[Strategy] : Dayend Exit Sell Generated !!! | MarketDataElement=IBTradeRealTime.MarketData.MarketDataElement,Day Exit Rule

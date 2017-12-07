@@ -1,0 +1,1013 @@
+2015-12-08 01:09:55,694 [6] INFO IBTradeRealTime.app.AppMainteanceManager - Init Maintenance Flags Daily Reset.
+2015-12-08 01:18:01,030 [6] INFO IBTradeRealTime.app.AppMainteanceManager - Morning Reset RTBar Start.
+2015-12-08 01:18:01,032 [6] INFO IBTradeRealTime.app.AppMainteanceManager - Morning Reset RTBar End.
+2015-12-08 01:19:01,068 [6] INFO IBTradeRealTime.app.AppMainteanceManager - Lunch Reset RTBar Start.
+2015-12-08 01:19:01,070 [6] INFO IBTradeRealTime.app.AppMainteanceManager - Lunch Reset RTBar End.
+2015-12-08 01:20:01,105 [6] INFO IBTradeRealTime.app.AppMainteanceManager - Maintenance Flags Daily Reset.
+2015-12-08 01:24:01,860 [6] INFO IBTradeRealTime.app.AppMainteanceManager - Init Maintenance Flags Daily Reset.
+2015-12-08 09:12:00,825 [6] INFO IBTradeRealTime.app.AppMainteanceManager - Morning Reset RTBar Start.
+2015-12-08 09:12:00,827 [6] INFO IBTradeRealTime.app.AppMainteanceManager - Morning Reset RTBar End.
+2015-12-08 09:15:58,956 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - Data is Ready.
+2015-12-08 09:15:58,956 [13] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - Data is Ready.
+2015-12-08 09:15:58,986 [13] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - [cacluateRanges]: preData=IBTradeRealTime.MarketData.MarketDataElement
+2015-12-08 09:15:58,986 [13] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - -----------------------------------------------
+2015-12-08 09:15:58,987 [13] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - [cacluateRanges]: trendBuy=22443
+2015-12-08 09:15:58,987 [13] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - [cacluateRanges]: sellCheck=22401
+2015-12-08 09:15:58,988 [13] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - [cacluateRanges]: revSell=22370
+2015-12-08 09:15:58,988 [13] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - -----------------------------------------------
+2015-12-08 09:15:58,989 [13] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - [cacluateRanges]: revBuy=22204
+2015-12-08 09:15:58,989 [13] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - [cacluateRanges]: buyCheck=22191
+2015-12-08 09:15:58,990 [13] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - [cacluateRanges]: trendSell=22149
+2015-12-08 09:15:58,990 [13] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - -----------------------------------------------
+2015-12-08 09:15:58,986 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [cacluateRanges]: preData=IBTradeRealTime.MarketData.MarketDataElement
+2015-12-08 09:15:58,991 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - -----------------------------------------------
+2015-12-08 09:15:58,991 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [cacluateRanges]: trendBuy=22439
+2015-12-08 09:15:58,992 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [cacluateRanges]: sellCheck=22414
+2015-12-08 09:15:58,992 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [cacluateRanges]: revSell=22370
+2015-12-08 09:15:58,993 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - -----------------------------------------------
+2015-12-08 09:15:58,993 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [cacluateRanges]: revBuy=22204
+2015-12-08 09:15:58,994 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [cacluateRanges]: buyCheck=22169
+2015-12-08 09:15:58,994 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [cacluateRanges]: trendSell=22145
+2015-12-08 09:15:58,994 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - -----------------------------------------------
+2015-12-08 10:48:46,521 [6] INFO IBTradeRealTime.app.AppMainteanceManager - Init Maintenance Flags Daily Reset.
+2015-12-08 10:49:35,163 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - S1_RND1 Started !
+2015-12-08 10:49:35,164 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - short_ma = 0
+2015-12-08 10:49:35,164 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - long_ma = 0
+2015-12-08 10:49:35,165 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - cutLoss = 0.0005
+2015-12-08 10:49:35,165 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - profitTarget = 0.0005
+2015-12-08 10:50:16,437 [6] INFO IBTradeRealTime.app.AppMainteanceManager - Init Maintenance Flags Daily Reset.
+2015-12-08 10:50:34,044 [9] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - S1_RND1 Started !
+2015-12-08 10:50:34,044 [9] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - short_ma = 0
+2015-12-08 10:50:34,045 [9] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - long_ma = 0
+2015-12-08 10:50:34,045 [9] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - cutLoss = 0.0005
+2015-12-08 10:50:34,045 [9] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - profitTarget = 0.0005
+2015-12-08 10:51:59,509 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - Data is Ready.
+2015-12-08 10:52:05,512 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - [Strategy] : Sell Signal Generated!
+2015-12-08 10:52:05,513 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - [Strategy] : residure=5; q=1; tickClose=1.08525
+2015-12-08 10:52:05,514 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - ******************************************************************
+2015-12-08 10:52:08,591 [9] INFO IBTradeRealTime.UI.OrderManager - Total PnL : 0
+2015-12-08 10:52:08,592 [9] INFO IBTradeRealTime.UI.OrderManager - Order Executed
+2015-12-08 10:52:08,593 [9] INFO IBTradeRealTime.UI.OrderManager - *********************************************
+2015-12-08 10:52:09,514 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - [Strategy] : Enter Strategy Executed!!!
+2015-12-08 10:52:09,515 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - ******************************************************************
+2015-12-08 10:53:22,446 [6] INFO IBTradeRealTime.app.AppMainteanceManager - Init Maintenance Flags Daily Reset.
+2015-12-08 10:53:59,192 [9] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - S1_RND1 Started !
+2015-12-08 10:53:59,192 [9] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - short_ma = 0
+2015-12-08 10:53:59,193 [9] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - long_ma = 0
+2015-12-08 10:53:59,193 [9] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - cutLoss = 0.001
+2015-12-08 10:53:59,194 [9] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - profitTarget = 0.001
+2015-12-08 10:54:59,518 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - Data is Ready.
+2015-12-08 10:55:10,524 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - [Strategy] : Sell Signal Generated!
+2015-12-08 10:55:10,525 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - [Strategy] : residure=5; q=1; tickClose=1.085325
+2015-12-08 10:55:10,527 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - ******************************************************************
+2015-12-08 10:55:18,694 [9] INFO IBTradeRealTime.UI.OrderManager - Total PnL : 0
+2015-12-08 10:55:18,695 [9] INFO IBTradeRealTime.UI.OrderManager - Order Executed
+2015-12-08 10:55:18,696 [9] INFO IBTradeRealTime.UI.OrderManager - *********************************************
+2015-12-08 10:55:19,531 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - [Strategy] : Enter Strategy Executed!!!
+2015-12-08 10:55:19,534 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - ******************************************************************
+2015-12-08 10:57:10,470 [9] INFO IBTradeRealTime.app.AppMainteanceManager - Init Maintenance Flags Daily Reset.
+2015-12-08 10:57:29,845 [6] INFO IBTradeRealTime.app.AppMainteanceManager - Init Maintenance Flags Daily Reset.
+2015-12-08 10:58:01,146 [9] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - S1_RND1 Started !
+2015-12-08 10:58:01,146 [9] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - short_ma = 0
+2015-12-08 10:58:01,147 [9] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - long_ma = 0
+2015-12-08 10:58:01,147 [9] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - cutLoss = 10
+2015-12-08 10:58:01,148 [9] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - profitTarget = 10
+2015-12-08 10:58:58,833 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - Data is Ready.
+2015-12-08 10:58:58,836 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - [Strategy] : Sell Signal Generated!
+2015-12-08 10:58:58,836 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - [Strategy] : residure=5; q=1; tickClose=21742
+2015-12-08 10:58:58,837 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - ******************************************************************
+2015-12-08 10:58:59,049 [9] INFO IBTradeRealTime.UI.OrderManager - Total PnL : 0
+2015-12-08 10:58:59,050 [9] INFO IBTradeRealTime.UI.OrderManager - Order Executed
+2015-12-08 10:58:59,051 [9] INFO IBTradeRealTime.UI.OrderManager - *********************************************
+2015-12-08 10:58:59,083 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - [Strategy] : Enter Strategy Executed!!!
+2015-12-08 10:58:59,084 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - ******************************************************************
+2015-12-08 10:59:31,380 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - [Strategy] : Exit BUY Generated !!! 
+2015-12-08 10:59:31,382 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - [Strategy] : Exit with the BUY trade because lower than profit target: profitTargetPt=21732; tickClose=21730; idealEnterPrice=21742; enterPrice=21742
+2015-12-08 10:59:31,646 [9] INFO IBTradeRealTime.UI.OrderManager - Total PnL : 10
+2015-12-08 10:59:31,648 [9] INFO IBTradeRealTime.UI.OrderManager - Order Executed
+2015-12-08 10:59:31,650 [9] INFO IBTradeRealTime.UI.OrderManager - *********************************************
+2015-12-08 10:59:31,879 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - [Strategy] : Exit Strategy Executed!!!
+2015-12-08 10:59:31,884 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - Take Profit Executed!!!
+2015-12-08 10:59:31,886 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - ******************************************************************
+2015-12-08 10:59:34,882 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - [Strategy] : Sell Signal Generated!
+2015-12-08 10:59:34,883 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - [Strategy] : residure=5; q=1; tickClose=21726
+2015-12-08 10:59:34,883 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - ******************************************************************
+2015-12-08 10:59:35,144 [9] INFO IBTradeRealTime.UI.OrderManager - Total PnL : 10
+2015-12-08 10:59:35,144 [9] INFO IBTradeRealTime.UI.OrderManager - Order Executed
+2015-12-08 10:59:35,145 [9] INFO IBTradeRealTime.UI.OrderManager - *********************************************
+2015-12-08 10:59:35,383 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - [Strategy] : Enter Strategy Executed!!!
+2015-12-08 10:59:35,384 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - ******************************************************************
+2015-12-08 11:02:52,043 [6] INFO IBTradeRealTime.app.AppMainteanceManager - Init Maintenance Flags Daily Reset.
+2015-12-08 11:03:06,699 [9] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - S1_RND1 Started !
+2015-12-08 11:03:06,699 [9] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - short_ma = 0
+2015-12-08 11:03:06,700 [9] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - long_ma = 0
+2015-12-08 11:03:06,700 [9] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - cutLoss = 10
+2015-12-08 11:03:06,701 [9] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - profitTarget = 10
+2015-12-08 11:03:59,176 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - Data is Ready.
+2015-12-08 11:04:02,137 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - [Strategy] : Sell Signal Generated!
+2015-12-08 11:04:02,137 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - [Strategy] : residure=5; q=1; tickClose=21735
+2015-12-08 11:04:02,138 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - ******************************************************************
+2015-12-08 11:04:02,330 [9] INFO IBTradeRealTime.UI.OrderManager - Total PnL : 0
+2015-12-08 11:04:02,331 [9] INFO IBTradeRealTime.UI.OrderManager - Order Executed
+2015-12-08 11:04:02,332 [9] INFO IBTradeRealTime.UI.OrderManager - *********************************************
+2015-12-08 11:04:02,385 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - [Strategy] : Enter Strategy Executed!!!
+2015-12-08 11:04:02,385 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - ******************************************************************
+2015-12-08 11:15:07,698 [11] INFO IBTradeRealTime.app.AppMainteanceManager - Init Maintenance Flags Daily Reset.
+2015-12-08 11:15:28,843 [6] INFO IBTradeRealTime.app.AppMainteanceManager - Init Maintenance Flags Daily Reset.
+2015-12-08 11:15:36,895 [9] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - S1_RND1 Started !
+2015-12-08 11:15:36,895 [9] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - short_ma = 0
+2015-12-08 11:15:36,896 [9] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - long_ma = 0
+2015-12-08 11:15:36,896 [9] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - cutLoss = 5
+2015-12-08 11:15:36,897 [9] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - profitTarget = 5
+2015-12-08 11:16:59,024 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - Data is Ready.
+2015-12-08 11:24:10,912 [10] INFO IBTradeRealTime.app.AppMainteanceManager - Init Maintenance Flags Daily Reset.
+2015-12-08 11:24:19,947 [9] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - S1_RND1 Started !
+2015-12-08 11:24:19,948 [9] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - short_ma = 0
+2015-12-08 11:24:19,949 [9] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - long_ma = 0
+2015-12-08 11:24:19,949 [9] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - cutLoss = 10
+2015-12-08 11:24:19,950 [9] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - profitTarget = 10
+2015-12-08 11:25:59,086 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - Data is Ready.
+2015-12-08 11:31:57,865 [10] INFO IBTradeRealTime.app.AppMainteanceManager - Init Maintenance Flags Daily Reset.
+2015-12-08 11:32:13,557 [9] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - S1_RND1 Started !
+2015-12-08 11:32:13,557 [9] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - short_ma = 0
+2015-12-08 11:32:13,558 [9] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - long_ma = 0
+2015-12-08 11:32:13,558 [9] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - cutLoss = 10
+2015-12-08 11:32:13,559 [9] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - profitTarget = 10
+2015-12-08 11:32:59,045 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - Data is Ready.
+2015-12-08 11:33:05,551 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - [Strategy] : Buy Signal Generated!
+2015-12-08 11:33:05,551 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - [Strategy] : residure=5; q=0; tickClose=21774
+2015-12-08 11:33:05,552 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - ******************************************************************
+2015-12-08 11:33:05,823 [9] INFO IBTradeRealTime.UI.OrderManager - Total PnL : 0
+2015-12-08 11:33:05,826 [9] INFO IBTradeRealTime.UI.OrderManager - Order Executed
+2015-12-08 11:33:05,828 [9] INFO IBTradeRealTime.UI.OrderManager - *********************************************
+2015-12-08 11:33:06,051 [11] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - [Strategy] : Enter Strategy Executed!!!
+2015-12-08 11:33:06,053 [11] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - [Strategy] : Exit Strategy Executed!!!
+2015-12-08 11:33:06,054 [11] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - Executed Rule = Random Rule
+2015-12-08 11:33:06,055 [11] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - Executed Rule Remark = 
+2015-12-08 11:33:06,055 [11] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - ******************************************************************
+2015-12-08 11:34:42,740 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - [Strategy] : Exit Sell Generated !!! 
+2015-12-08 11:34:42,741 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - [Strategy] : Exit with the SELL trade because exceed profit target: profitTargetPt=21784; tickClose=21785; idealEnterPrice=21774; enterPrice=21774
+2015-12-08 11:34:43,000 [9] INFO IBTradeRealTime.UI.OrderManager - Total PnL : 8
+2015-12-08 11:34:43,001 [9] INFO IBTradeRealTime.UI.OrderManager - Order Executed
+2015-12-08 11:34:43,002 [9] INFO IBTradeRealTime.UI.OrderManager - *********************************************
+2015-12-08 11:34:43,424 [11] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - [Strategy] : Exit Strategy Executed!!!
+2015-12-08 11:34:43,425 [11] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - Executed Rule = Exit Random Trade
+2015-12-08 11:34:43,426 [11] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - Executed Rule Remark = 
+2015-12-08 11:34:43,426 [11] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - ******************************************************************
+2015-12-08 11:34:46,433 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - [Strategy] : Buy Signal Generated!
+2015-12-08 11:34:46,435 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - [Strategy] : residure=5; q=0; tickClose=21784
+2015-12-08 11:34:46,437 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - ******************************************************************
+2015-12-08 11:34:46,704 [9] INFO IBTradeRealTime.UI.OrderManager - Total PnL : 8
+2015-12-08 11:34:46,706 [9] INFO IBTradeRealTime.UI.OrderManager - Order Executed
+2015-12-08 11:34:46,708 [9] INFO IBTradeRealTime.UI.OrderManager - *********************************************
+2015-12-08 11:34:46,928 [11] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - [Strategy] : Enter Strategy Executed!!!
+2015-12-08 11:34:46,930 [11] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - [Strategy] : Exit Strategy Executed!!!
+2015-12-08 11:34:46,932 [11] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - Executed Rule = Random Rule
+2015-12-08 11:34:46,934 [11] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - Executed Rule Remark = 
+2015-12-08 11:34:46,936 [11] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - ******************************************************************
+2015-12-08 11:35:47,163 [9] INFO IBTradeRealTime.UI.OrderManager - Order Executed
+2015-12-08 11:35:47,163 [9] INFO IBTradeRealTime.UI.OrderManager - *********************************************
+2015-12-08 11:35:47,177 [9] INFO IBTradeRealTime.UI.OrderManager - Order Executed
+2015-12-08 11:35:47,177 [9] INFO IBTradeRealTime.UI.OrderManager - *********************************************
+2015-12-08 11:35:47,192 [9] INFO IBTradeRealTime.UI.OrderManager - Order Executed
+2015-12-08 11:35:47,193 [9] INFO IBTradeRealTime.UI.OrderManager - *********************************************
+2015-12-08 11:43:40,890 [9] INFO IBTradeRealTime.UI.OrderManager - Order Executed
+2015-12-08 11:43:40,891 [9] INFO IBTradeRealTime.UI.OrderManager - *********************************************
+2015-12-08 11:43:40,906 [9] INFO IBTradeRealTime.UI.OrderManager - Order Executed
+2015-12-08 11:43:40,906 [9] INFO IBTradeRealTime.UI.OrderManager - *********************************************
+2015-12-08 11:43:40,921 [9] INFO IBTradeRealTime.UI.OrderManager - Order Executed
+2015-12-08 11:43:40,921 [9] INFO IBTradeRealTime.UI.OrderManager - *********************************************
+2015-12-08 11:56:12,015 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - [Strategy] : Exit Sell Generated !!! 
+2015-12-08 11:56:12,016 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - [Strategy] : Exit with the SELL trade because exceed profit target: profitTargetPt=21794; tickClose=21795; idealEnterPrice=21784; enterPrice=21784
+2015-12-08 11:56:12,147 [9] INFO IBTradeRealTime.UI.OrderManager - Total PnL : 15
+2015-12-08 11:56:12,149 [9] INFO IBTradeRealTime.UI.OrderManager - Order Executed
+2015-12-08 11:56:12,151 [9] INFO IBTradeRealTime.UI.OrderManager - *********************************************
+2015-12-08 11:56:12,267 [11] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - [Strategy] : Exit Strategy Executed!!!
+2015-12-08 11:56:12,269 [11] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - Executed Rule = Exit Random Trade
+2015-12-08 11:56:12,270 [11] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - Executed Rule Remark = 
+2015-12-08 11:56:12,271 [11] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - ******************************************************************
+2015-12-08 11:56:19,693 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - [Strategy] : Sell Signal Generated!
+2015-12-08 11:56:19,694 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - [Strategy] : residure=5; q=1; tickClose=21796
+2015-12-08 11:56:19,694 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - ******************************************************************
+2015-12-08 11:56:19,910 [9] INFO IBTradeRealTime.UI.OrderManager - Total PnL : 15
+2015-12-08 11:56:19,912 [9] INFO IBTradeRealTime.UI.OrderManager - Order Executed
+2015-12-08 11:56:19,913 [9] INFO IBTradeRealTime.UI.OrderManager - *********************************************
+2015-12-08 11:56:23,284 [11] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - [Strategy] : Enter Strategy Executed!!!
+2015-12-08 11:56:23,285 [11] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - [Strategy] : Exit Strategy Executed!!!
+2015-12-08 11:56:23,286 [11] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - Executed Rule = Random Rule
+2015-12-08 11:56:23,286 [11] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - Executed Rule Remark = 
+2015-12-08 11:56:23,287 [11] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - ******************************************************************
+2015-12-08 11:58:22,214 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - [Strategy] : Exit BUY Generated !!! 
+2015-12-08 11:58:22,216 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - [Strategy] : Exit with the BUY trade because lower than profit target: profitTargetPt=21788; tickClose=21784; idealEnterPrice=21796; enterPrice=21798
+2015-12-08 11:58:22,503 [9] INFO IBTradeRealTime.UI.OrderManager - Total PnL : 24
+2015-12-08 11:58:22,504 [9] INFO IBTradeRealTime.UI.OrderManager - Order Executed
+2015-12-08 11:58:22,504 [9] INFO IBTradeRealTime.UI.OrderManager - *********************************************
+2015-12-08 11:58:22,712 [11] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - [Strategy] : Exit Strategy Executed!!!
+2015-12-08 11:58:22,713 [11] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - Executed Rule = Exit Random Trade
+2015-12-08 11:58:22,715 [11] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - Executed Rule Remark = 
+2015-12-08 11:58:22,716 [11] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - ******************************************************************
+2015-12-08 11:58:30,001 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - [Strategy] : Buy Signal Generated!
+2015-12-08 11:58:30,007 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - [Strategy] : residure=5; q=0; tickClose=21785
+2015-12-08 11:58:30,009 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - ******************************************************************
+2015-12-08 11:58:30,337 [9] INFO IBTradeRealTime.UI.OrderManager - Total PnL : 24
+2015-12-08 11:58:30,338 [9] INFO IBTradeRealTime.UI.OrderManager - Order Executed
+2015-12-08 11:58:30,339 [9] INFO IBTradeRealTime.UI.OrderManager - *********************************************
+2015-12-08 11:58:30,973 [11] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - [Strategy] : Enter Strategy Executed!!!
+2015-12-08 11:58:30,973 [11] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - [Strategy] : Exit Strategy Executed!!!
+2015-12-08 11:58:30,974 [11] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - Executed Rule = Random Rule
+2015-12-08 11:58:30,974 [11] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - Executed Rule Remark = 
+2015-12-08 11:58:30,975 [11] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - ******************************************************************
+2015-12-09 01:01:59,048 [10] INFO IBTradeRealTime.app.AppMainteanceManager - Init Maintenance Flags Daily Reset.
+2015-12-09 01:02:12,084 [6] INFO IBTradeRealTime.app.AppMainteanceManager - Init Maintenance Flags Daily Reset.
+2015-12-09 09:12:03,763 [6] INFO IBTradeRealTime.app.AppMainteanceManager - Morning Reset RTBar Start.
+2015-12-09 09:12:03,763 [6] INFO IBTradeRealTime.app.AppMainteanceManager - Morning Reset RTBar End.
+2015-12-09 09:16:02,001 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - Data is Ready.
+2015-12-09 09:16:02,001 [13] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - Data is Ready.
+2015-12-09 09:16:03,321 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [cacluateRanges]: preData=IBTradeRealTime.MarketData.MarketDataElement
+2015-12-09 09:16:03,321 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - -----------------------------------------------
+2015-12-09 09:16:03,321 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [cacluateRanges]: trendBuy=22194
+2015-12-09 09:16:03,321 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [cacluateRanges]: sellCheck=22140
+2015-12-09 09:16:03,321 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [cacluateRanges]: revSell=22034
+2015-12-09 09:16:03,321 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - -----------------------------------------------
+2015-12-09 09:16:03,321 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [cacluateRanges]: revBuy=21668
+2015-12-09 09:16:03,321 [13] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - [cacluateRanges]: preData=IBTradeRealTime.MarketData.MarketDataElement
+2015-12-09 09:16:03,321 [13] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - -----------------------------------------------
+2015-12-09 09:16:03,321 [13] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - [cacluateRanges]: trendBuy=22210
+2015-12-09 09:16:03,321 [13] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - [cacluateRanges]: sellCheck=22117
+2015-12-09 09:16:03,321 [13] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - [cacluateRanges]: revSell=22034
+2015-12-09 09:16:03,321 [13] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - -----------------------------------------------
+2015-12-09 09:16:03,321 [13] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - [cacluateRanges]: revBuy=21668
+2015-12-09 09:16:03,321 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [cacluateRanges]: buyCheck=21601
+2015-12-09 09:16:03,321 [13] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - [cacluateRanges]: buyCheck=21655
+2015-12-09 09:16:03,321 [13] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - [cacluateRanges]: trendSell=21563
+2015-12-09 09:16:03,321 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [cacluateRanges]: trendSell=21547
+2015-12-09 09:16:03,321 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - -----------------------------------------------
+2015-12-09 09:16:03,321 [13] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - -----------------------------------------------
+2016-01-12 09:54:17,703 [10] INFO IBTradeRealTime.app.AppMainteanceManager - Init Maintenance Flags Daily Reset.
+2016-01-12 09:55:09,610 [9] INFO IBTradeRealTime.app.AppMainteanceManager - Init Maintenance Flags Daily Reset.
+2016-01-12 10:02:25,675 [11] INFO IBTradeRealTime.app.AppMainteanceManager - Init Maintenance Flags Daily Reset.
+2016-01-12 10:05:50,405 [6] INFO IBTradeRealTime.app.AppMainteanceManager - Init Maintenance Flags Daily Reset.
+2016-01-12 10:05:50,411 [6] INFO IBTradeRealTime.app.AppMainteanceManager - [handleDailyAllFlagsReset]: Test 1
+2016-01-12 10:07:00,992 [9] INFO IBTradeRealTime.app.AppMainteanceManager - Init Maintenance Flags Daily Reset.
+2016-01-12 10:07:01,010 [9] INFO IBTradeRealTime.app.AppMainteanceManager - [handleDailyAllFlagsReset]: Test 1
+2016-01-12 10:08:02,196 [13] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - Data is Ready.
+2016-01-12 10:08:02,196 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - Data is Ready.
+2016-01-12 10:08:02,247 [13] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - [cacluateRanges]: preData=IBTradeRealTime.MarketData.MarketDataElement
+2016-01-12 10:08:02,247 [13] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - -----------------------------------------------
+2016-01-12 10:08:02,247 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [cacluateRanges]: preData=IBTradeRealTime.MarketData.MarketDataElement
+2016-01-12 10:08:02,248 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - -----------------------------------------------
+2016-01-12 10:08:02,248 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [cacluateRanges]: trendBuy=20149
+2016-01-12 10:08:02,248 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [cacluateRanges]: sellCheck=20115
+2016-01-12 10:08:02,249 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [cacluateRanges]: revSell=20059
+2016-01-12 10:08:02,249 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - -----------------------------------------------
+2016-01-12 10:08:02,249 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [cacluateRanges]: revBuy=19826
+2016-01-12 10:08:02,250 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [cacluateRanges]: buyCheck=19770
+2016-01-12 10:08:02,250 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [cacluateRanges]: trendSell=19736
+2016-01-12 10:08:02,250 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - -----------------------------------------------
+2016-01-12 10:08:02,247 [13] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - [cacluateRanges]: trendBuy=20149
+2016-01-12 10:08:02,251 [13] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - [cacluateRanges]: sellCheck=20090
+2016-01-12 10:08:02,252 [13] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - [cacluateRanges]: revSell=20059
+2016-01-12 10:08:02,252 [13] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - -----------------------------------------------
+2016-01-12 10:08:02,252 [13] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - [cacluateRanges]: revBuy=19826
+2016-01-12 10:08:02,253 [13] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - [cacluateRanges]: buyCheck=19795
+2016-01-12 10:08:02,253 [13] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - [cacluateRanges]: trendSell=19736
+2016-01-12 10:08:02,253 [13] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - -----------------------------------------------
+2016-01-12 10:12:03,006 [9] INFO IBTradeRealTime.app.AppMainteanceManager - Morning Reset RTBar Start.
+2016-01-12 10:12:03,006 [9] INFO IBTradeRealTime.app.AppMainteanceManager - Morning Reset RTBar End.
+2016-01-12 10:14:51,511 [10] INFO IBTradeRealTime.app.AppMainteanceManager - Init Maintenance Flags Daily Reset.
+2016-01-12 10:14:51,526 [10] INFO IBTradeRealTime.app.AppMainteanceManager - [handleDailyAllFlagsReset]: Test 1
+2016-01-12 10:15:03,641 [10] INFO IBTradeRealTime.app.AppMainteanceManager - Morning Reset RTBar Start.
+2016-01-12 10:15:03,641 [10] INFO IBTradeRealTime.app.AppMainteanceManager - Morning Reset RTBar End.
+2016-04-12 15:54:16,337 [6] INFO IBTradeRealTime.app.AppMainteanceManager - Init Maintenance Flags Daily Reset.
+2016-04-12 15:54:16,347 [6] INFO IBTradeRealTime.app.AppMainteanceManager - [handleDailyAllFlagsReset]: Test 1
+2016-04-12 15:56:00,083 [13] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - Data is Ready.
+2016-04-12 15:56:00,083 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - Data is Ready.
+2016-04-12 15:56:00,128 [13] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - [cacluateRanges]: preData=IBTradeRealTime.MarketData.MarketDataElement
+2016-04-12 15:56:00,130 [13] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - -----------------------------------------------
+2016-04-12 15:56:00,128 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [cacluateRanges]: preData=IBTradeRealTime.MarketData.MarketDataElement
+2016-04-12 15:56:00,131 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - -----------------------------------------------
+2016-04-12 15:56:00,131 [13] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - [cacluateRanges]: trendBuy=20751
+2016-04-12 15:56:00,133 [13] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - [cacluateRanges]: sellCheck=20654
+2016-04-12 15:56:00,133 [13] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - [cacluateRanges]: revSell=20676
+2016-04-12 15:56:00,134 [13] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - -----------------------------------------------
+2016-04-12 15:56:00,135 [13] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - [cacluateRanges]: revBuy=20289
+2016-04-12 15:56:00,135 [13] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - [cacluateRanges]: buyCheck=20165
+2016-04-12 15:56:00,136 [13] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - [cacluateRanges]: trendSell=20068
+2016-04-12 15:56:00,136 [13] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - -----------------------------------------------
+2016-04-12 15:56:00,132 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [cacluateRanges]: trendBuy=20784
+2016-04-12 15:56:00,138 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [cacluateRanges]: sellCheck=20727
+2016-04-12 15:56:00,138 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [cacluateRanges]: revSell=20676
+2016-04-12 15:56:00,139 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - -----------------------------------------------
+2016-04-12 15:56:00,139 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [cacluateRanges]: revBuy=20289
+2016-04-12 15:56:00,139 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [cacluateRanges]: buyCheck=20157
+2016-04-12 15:56:00,140 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [cacluateRanges]: trendSell=20100
+2016-04-12 15:56:00,140 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - -----------------------------------------------
+2016-04-12 16:40:19,382 [9] INFO IBTradeRealTime.app.AppMainteanceManager - Init Maintenance Flags Daily Reset.
+2016-04-12 16:40:19,392 [9] INFO IBTradeRealTime.app.AppMainteanceManager - [handleDailyAllFlagsReset]: Test 1
+2016-04-12 16:42:40,259 [9] INFO IBTradeRealTime.app.AppMainteanceManager - Init Maintenance Flags Daily Reset.
+2016-04-12 16:42:40,270 [9] INFO IBTradeRealTime.app.AppMainteanceManager - [handleDailyAllFlagsReset]: Test 1
+2016-04-13 11:53:27,119 [10] INFO IBTradeRealTime.app.AppMainteanceManager - Init Maintenance Flags Daily Reset.
+2016-04-13 11:53:27,150 [10] INFO IBTradeRealTime.app.AppMainteanceManager - [handleDailyAllFlagsReset]: Test 1
+2016-04-13 11:53:42,466 [9] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - S1_RND1 Started !
+2016-04-13 11:53:42,466 [9] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - short_ma = 0
+2016-04-13 11:53:42,466 [9] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - long_ma = 0
+2016-04-13 11:53:42,466 [9] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - cutLoss = 5
+2016-04-13 11:53:42,466 [9] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - profitTarget = 5
+2016-04-13 11:55:03,765 [10] INFO IBTradeRealTime.app.AppMainteanceManager - Init Maintenance Flags Daily Reset.
+2016-04-13 11:55:03,765 [10] INFO IBTradeRealTime.app.AppMainteanceManager - [handleDailyAllFlagsReset]: Test 1
+2016-04-13 11:55:09,275 [9] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - S1_RND1 Started !
+2016-04-13 11:55:09,275 [9] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - short_ma = 0
+2016-04-13 11:55:09,275 [9] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - long_ma = 0
+2016-04-13 11:55:09,275 [9] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - cutLoss = 5
+2016-04-13 11:55:09,275 [9] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - profitTarget = 5
+2016-04-13 11:56:04,694 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - Data is Ready.
+2016-04-13 11:56:30,717 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - [Strategy] : Buy Signal Generated!
+2016-04-13 11:56:30,717 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - [Strategy] : residure=5; q=0; tickClose=21049
+2016-04-13 11:56:30,717 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - ******************************************************************
+2016-04-13 11:56:31,328 [9] INFO IBTradeRealTime.UI.OrderManager - Total PnL : 0
+2016-04-13 11:56:31,328 [9] INFO IBTradeRealTime.UI.OrderManager - Order Executed
+2016-04-13 11:56:31,328 [9] INFO IBTradeRealTime.UI.OrderManager - *********************************************
+2016-04-13 11:56:32,218 [11] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - [Strategy] : Enter Strategy Executed!!!
+2016-04-13 11:56:32,218 [11] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - [Strategy] : Exit Strategy Executed!!!
+2016-04-13 11:56:32,218 [11] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - Executed Rule = Random Rule
+2016-04-13 11:56:32,218 [11] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - Executed Rule Remark = 
+2016-04-13 11:56:32,218 [11] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - ******************************************************************
+2016-04-13 11:56:49,996 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - [Strategy] : Cut Loss SELL Exit Generated !!!
+2016-04-13 11:56:49,996 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - [Strategy] : Cut Loss = 21044; tickClose = 21043; idealEnterPrice=21049; enterPrice=21049
+2016-04-13 11:56:50,272 [9] INFO IBTradeRealTime.UI.OrderManager - Total PnL : -6
+2016-04-13 11:56:50,288 [9] INFO IBTradeRealTime.UI.OrderManager - Order Executed
+2016-04-13 11:56:50,288 [9] INFO IBTradeRealTime.UI.OrderManager - *********************************************
+2016-04-13 11:56:50,491 [11] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - [Strategy] : Exit Strategy Executed!!!
+2016-04-13 11:56:50,491 [11] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - Executed Rule = Cutloss Random Trade
+2016-04-13 11:56:50,491 [11] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - Executed Rule Remark = 
+2016-04-13 11:56:50,491 [11] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - ******************************************************************
+2016-04-13 11:56:51,494 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - [Strategy] : Sell Signal Generated!
+2016-04-13 11:56:51,494 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - [Strategy] : residure=5; q=1; tickClose=21044
+2016-04-13 11:56:51,494 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - ******************************************************************
+2016-04-13 11:56:51,775 [9] INFO IBTradeRealTime.UI.OrderManager - Total PnL : -6
+2016-04-13 11:56:51,775 [9] INFO IBTradeRealTime.UI.OrderManager - Order Executed
+2016-04-13 11:56:51,775 [9] INFO IBTradeRealTime.UI.OrderManager - *********************************************
+2016-04-13 11:56:52,749 [11] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - [Strategy] : Enter Strategy Executed!!!
+2016-04-13 11:56:52,749 [11] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - [Strategy] : Exit Strategy Executed!!!
+2016-04-13 11:56:52,749 [11] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - Executed Rule = Random Rule
+2016-04-13 11:56:52,749 [11] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - Executed Rule Remark = 
+2016-04-13 11:56:52,749 [11] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - ******************************************************************
+2016-04-13 11:57:39,312 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - [Strategy] : Exit BUY Generated !!! 
+2016-04-13 11:57:39,312 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - [Strategy] : Exit with the BUY trade because lower than profit target: profitTargetPt=21037; tickClose=21036; idealEnterPrice=21044; enterPrice=21042
+2016-04-13 11:57:39,595 [9] INFO IBTradeRealTime.UI.OrderManager - Total PnL : -1
+2016-04-13 11:57:55,451 [9] INFO IBTradeRealTime.UI.OrderManager - Order Executed
+2016-04-13 11:57:55,452 [9] INFO IBTradeRealTime.UI.OrderManager - *********************************************
+2016-04-13 11:57:55,505 [11] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - [Strategy] : Exit Strategy Executed!!!
+2016-04-13 11:57:55,505 [11] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - Executed Rule = Exit Random Trade
+2016-04-13 11:57:55,506 [11] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - Executed Rule Remark = 
+2016-04-13 11:57:55,506 [11] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - ******************************************************************
+2016-04-13 11:58:08,099 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - [Strategy] : Sell Signal Generated!
+2016-04-13 11:58:08,100 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - [Strategy] : residure=5; q=1; tickClose=21030
+2016-04-13 11:58:08,102 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - ******************************************************************
+2016-04-13 11:58:08,373 [9] INFO IBTradeRealTime.UI.OrderManager - Total PnL : -1
+2016-04-13 11:58:35,374 [9] INFO IBTradeRealTime.UI.OrderManager - Order Executed
+2016-04-13 11:58:35,374 [9] INFO IBTradeRealTime.UI.OrderManager - *********************************************
+2016-04-13 11:58:35,421 [11] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - [Strategy] : Enter Strategy Executed!!!
+2016-04-13 11:58:35,421 [11] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - [Strategy] : Exit Strategy Executed!!!
+2016-04-13 11:58:35,421 [11] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - Executed Rule = Random Rule
+2016-04-13 11:58:35,421 [11] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - Executed Rule Remark = 
+2016-04-13 11:58:35,437 [11] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - ******************************************************************
+2016-04-13 11:58:48,002 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - [Strategy] : Exit BUY Generated !!! 
+2016-04-13 11:58:48,002 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - [Strategy] : Exit with the BUY trade because lower than profit target: profitTargetPt=21024; tickClose=21023; idealEnterPrice=21030; enterPrice=21029
+2016-04-13 11:58:48,674 [9] INFO IBTradeRealTime.UI.OrderManager - Total PnL : 3
+2016-04-13 11:58:48,799 [9] INFO IBTradeRealTime.UI.OrderManager - Order Executed
+2016-04-13 11:58:48,799 [9] INFO IBTradeRealTime.UI.OrderManager - *********************************************
+2016-04-13 11:58:48,893 [11] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - [Strategy] : Exit Strategy Executed!!!
+2016-04-13 11:58:48,893 [11] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - Executed Rule = Exit Random Trade
+2016-04-13 11:58:48,893 [11] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - Executed Rule Remark = 
+2016-04-13 11:58:48,893 [11] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - ******************************************************************
+2016-04-13 11:58:48,893 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - [Strategy] : Sell Signal Generated!
+2016-04-13 11:58:48,893 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - [Strategy] : residure=5; q=1; tickClose=21024
+2016-04-13 11:58:48,893 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - ******************************************************************
+2016-04-13 11:58:49,065 [9] INFO IBTradeRealTime.UI.OrderManager - Total PnL : 3
+2016-04-13 11:58:49,065 [9] INFO IBTradeRealTime.UI.OrderManager - Order Executed
+2016-04-13 11:58:49,065 [9] INFO IBTradeRealTime.UI.OrderManager - *********************************************
+2016-04-13 11:58:50,887 [11] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - [Strategy] : Enter Strategy Executed!!!
+2016-04-13 11:58:50,887 [11] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - [Strategy] : Exit Strategy Executed!!!
+2016-04-13 11:58:50,887 [11] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - Executed Rule = Random Rule
+2016-04-13 11:58:50,887 [11] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - Executed Rule Remark = 
+2016-04-13 11:58:50,902 [11] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - ******************************************************************
+2016-04-13 11:59:22,779 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - [Strategy] : Exit BUY Generated !!! 
+2016-04-13 11:59:22,781 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - [Strategy] : Exit with the BUY trade because lower than profit target: profitTargetPt=21019; tickClose=21018; idealEnterPrice=21024; enterPrice=21024
+2016-04-13 11:59:22,973 [9] INFO IBTradeRealTime.UI.OrderManager - Total PnL : 7
+2016-04-13 11:59:22,973 [9] INFO IBTradeRealTime.UI.OrderManager - Order Executed
+2016-04-13 11:59:22,973 [9] INFO IBTradeRealTime.UI.OrderManager - *********************************************
+2016-04-13 11:59:23,519 [11] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - [Strategy] : Exit Strategy Executed!!!
+2016-04-13 11:59:23,535 [11] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - Executed Rule = Exit Random Trade
+2016-04-13 11:59:23,535 [11] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - Executed Rule Remark = 
+2016-04-13 11:59:23,535 [11] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - ******************************************************************
+2016-04-13 11:59:27,275 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - [Strategy] : Buy Signal Generated!
+2016-04-13 11:59:27,275 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - [Strategy] : residure=5; q=0; tickClose=21020
+2016-04-13 11:59:27,275 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - ******************************************************************
+2016-04-13 11:59:27,572 [9] INFO IBTradeRealTime.UI.OrderManager - Total PnL : 7
+2016-04-13 11:59:27,572 [9] INFO IBTradeRealTime.UI.OrderManager - Order Executed
+2016-04-13 11:59:27,572 [9] INFO IBTradeRealTime.UI.OrderManager - *********************************************
+2016-04-13 11:59:27,775 [11] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - [Strategy] : Enter Strategy Executed!!!
+2016-04-13 11:59:27,775 [11] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - [Strategy] : Exit Strategy Executed!!!
+2016-04-13 11:59:27,775 [11] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - Executed Rule = Random Rule
+2016-04-13 11:59:27,775 [11] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - Executed Rule Remark = 
+2016-04-13 11:59:27,775 [11] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - ******************************************************************
+2016-04-13 12:01:33,423 [10] INFO IBTradeRealTime.app.AppMainteanceManager - Init Maintenance Flags Daily Reset.
+2016-04-13 12:01:33,439 [10] INFO IBTradeRealTime.app.AppMainteanceManager - [handleDailyAllFlagsReset]: Test 1
+2016-04-13 12:01:43,170 [9] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - S1_RND1 Started !
+2016-04-13 12:01:43,170 [9] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - short_ma = 0
+2016-04-13 12:01:43,170 [9] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - long_ma = 0
+2016-04-13 12:01:43,170 [9] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - cutLoss = 5
+2016-04-13 12:01:43,170 [9] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - profitTarget = 5
+2016-04-13 12:57:06,057 [10] INFO IBTradeRealTime.app.AppMainteanceManager - Lunch Reset RTBar Start.
+2016-04-13 12:57:06,061 [10] INFO IBTradeRealTime.app.AppMainteanceManager - Lunch Reset RTBar End.
+2016-04-13 13:08:02,976 [6] INFO IBTradeRealTime.app.AppMainteanceManager - Init Maintenance Flags Daily Reset.
+2016-04-13 13:08:02,993 [6] INFO IBTradeRealTime.app.AppMainteanceManager - [handleDailyAllFlagsReset]: Test 1
+2016-04-13 13:08:22,641 [9] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - S1_RND1 Started !
+2016-04-13 13:08:22,642 [9] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - short_ma = 0
+2016-04-13 13:08:22,642 [9] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - long_ma = 0
+2016-04-13 13:08:22,642 [9] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - cutLoss = 5
+2016-04-13 13:08:22,643 [9] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - profitTarget = 5
+2016-04-13 13:10:04,510 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - Data is Ready.
+2016-04-13 13:10:06,259 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - [Strategy] : Sell Signal Generated!
+2016-04-13 13:10:06,260 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - [Strategy] : residure=5; q=1; tickClose=21068
+2016-04-13 13:10:06,262 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - ******************************************************************
+2016-04-13 13:10:06,484 [9] INFO IBTradeRealTime.UI.OrderManager - Total PnL : 0
+2016-04-13 13:10:06,488 [9] INFO IBTradeRealTime.UI.OrderManager - Order Executed
+2016-04-13 13:10:06,490 [9] INFO IBTradeRealTime.UI.OrderManager - *********************************************
+2016-04-13 13:10:06,559 [10] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - [Strategy] : Enter Strategy Executed!!!
+2016-04-13 13:10:06,559 [10] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - [Strategy] : Exit Strategy Executed!!!
+2016-04-13 13:10:06,560 [10] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - Executed Rule = Random Rule
+2016-04-13 13:10:06,560 [10] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - Executed Rule Remark = 
+2016-04-13 13:10:06,560 [10] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - ******************************************************************
+2016-04-13 13:10:16,698 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - [Strategy] : Cut Loss BUY Exit Generated !!!
+2016-04-13 13:10:16,698 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - [Strategy] : Cut Loss = 21072; tickClose = 21074; idealEnterPrice=21068; enterPrice=21067
+2016-04-13 13:10:16,880 [9] INFO IBTradeRealTime.UI.OrderManager - Total PnL : -6
+2016-04-13 13:10:16,881 [9] INFO IBTradeRealTime.UI.OrderManager - Order Executed
+2016-04-13 13:10:16,883 [9] INFO IBTradeRealTime.UI.OrderManager - *********************************************
+2016-04-13 13:10:17,026 [10] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - [Strategy] : Exit Strategy Executed!!!
+2016-04-13 13:10:17,027 [10] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - Executed Rule = Cutloss Random Trade
+2016-04-13 13:10:17,027 [10] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - Executed Rule Remark = 
+2016-04-13 13:10:17,028 [10] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - ******************************************************************
+2016-04-13 13:10:18,278 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - [Strategy] : Buy Signal Generated!
+2016-04-13 13:10:18,280 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - [Strategy] : residure=5; q=0; tickClose=21075
+2016-04-13 13:10:18,281 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - ******************************************************************
+2016-04-13 13:10:18,578 [9] INFO IBTradeRealTime.UI.OrderManager - Total PnL : -6
+2016-04-13 13:10:18,579 [9] INFO IBTradeRealTime.UI.OrderManager - Order Executed
+2016-04-13 13:10:18,581 [9] INFO IBTradeRealTime.UI.OrderManager - *********************************************
+2016-04-13 13:10:18,780 [10] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - [Strategy] : Enter Strategy Executed!!!
+2016-04-13 13:10:18,781 [10] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - [Strategy] : Exit Strategy Executed!!!
+2016-04-13 13:10:18,781 [10] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - Executed Rule = Random Rule
+2016-04-13 13:10:18,782 [10] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - Executed Rule Remark = 
+2016-04-13 13:10:18,782 [10] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - ******************************************************************
+2016-04-13 13:11:13,628 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - [Strategy] : Cut Loss SELL Exit Generated !!!
+2016-04-13 13:11:13,629 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - [Strategy] : Cut Loss = 21071; tickClose = 21069; idealEnterPrice=21075; enterPrice=21076
+2016-04-13 13:11:13,874 [9] INFO IBTradeRealTime.UI.OrderManager - Total PnL : -13
+2016-04-13 13:11:13,875 [9] INFO IBTradeRealTime.UI.OrderManager - Order Executed
+2016-04-13 13:11:13,875 [9] INFO IBTradeRealTime.UI.OrderManager - *********************************************
+2016-04-13 13:11:14,119 [10] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - [Strategy] : Exit Strategy Executed!!!
+2016-04-13 13:11:14,121 [10] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - Executed Rule = Cutloss Random Trade
+2016-04-13 13:11:14,122 [10] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - Executed Rule Remark = 
+2016-04-13 13:11:14,122 [10] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - ******************************************************************
+2016-04-13 13:11:14,619 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - [Strategy] : Buy Signal Generated!
+2016-04-13 13:11:14,620 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - [Strategy] : residure=5; q=0; tickClose=21069
+2016-04-13 13:11:14,622 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - ******************************************************************
+2016-04-13 13:11:14,876 [9] INFO IBTradeRealTime.UI.OrderManager - Total PnL : -13
+2016-04-13 13:11:14,877 [9] INFO IBTradeRealTime.UI.OrderManager - Order Executed
+2016-04-13 13:11:14,877 [9] INFO IBTradeRealTime.UI.OrderManager - *********************************************
+2016-04-13 13:11:15,121 [10] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - [Strategy] : Enter Strategy Executed!!!
+2016-04-13 13:11:15,123 [10] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - [Strategy] : Exit Strategy Executed!!!
+2016-04-13 13:11:15,124 [10] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - Executed Rule = Random Rule
+2016-04-13 13:11:15,126 [10] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - Executed Rule Remark = 
+2016-04-13 13:11:15,127 [10] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - ******************************************************************
+2016-04-13 13:11:39,665 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - [Strategy] : Exit Sell Generated !!! 
+2016-04-13 13:11:39,666 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - [Strategy] : Exit with the SELL trade because exceed profit target: profitTargetPt=21074; tickClose=21075; idealEnterPrice=21069; enterPrice=21069
+2016-04-13 13:11:39,875 [9] INFO IBTradeRealTime.UI.OrderManager - Total PnL : -9
+2016-04-13 13:11:39,876 [9] INFO IBTradeRealTime.UI.OrderManager - Order Executed
+2016-04-13 13:11:39,878 [9] INFO IBTradeRealTime.UI.OrderManager - *********************************************
+2016-04-13 13:11:40,911 [10] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - [Strategy] : Exit Strategy Executed!!!
+2016-04-13 13:11:40,911 [10] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - Executed Rule = Exit Random Trade
+2016-04-13 13:11:40,912 [10] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - Executed Rule Remark = 
+2016-04-13 13:11:40,912 [10] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - ******************************************************************
+2016-04-13 13:11:47,929 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - [Strategy] : Sell Signal Generated!
+2016-04-13 13:11:47,930 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - [Strategy] : residure=5; q=1; tickClose=21069
+2016-04-13 13:11:47,931 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - ******************************************************************
+2016-04-13 13:11:48,174 [9] INFO IBTradeRealTime.UI.OrderManager - Total PnL : -9
+2016-04-13 13:11:48,176 [9] INFO IBTradeRealTime.UI.OrderManager - Order Executed
+2016-04-13 13:11:48,177 [9] INFO IBTradeRealTime.UI.OrderManager - *********************************************
+2016-04-13 13:11:48,253 [10] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - [Strategy] : Enter Strategy Executed!!!
+2016-04-13 13:11:48,253 [10] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - [Strategy] : Exit Strategy Executed!!!
+2016-04-13 13:11:48,253 [10] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - Executed Rule = Random Rule
+2016-04-13 13:11:48,254 [10] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - Executed Rule Remark = 
+2016-04-13 13:11:48,255 [10] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - ******************************************************************
+2016-04-13 13:12:08,708 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - [Strategy] : Cut Loss BUY Exit Generated !!!
+2016-04-13 13:12:08,708 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - [Strategy] : Cut Loss = 21072; tickClose = 21073; idealEnterPrice=21069; enterPrice=21067
+2016-04-13 13:12:08,971 [9] INFO IBTradeRealTime.UI.OrderManager - Total PnL : -15
+2016-04-13 13:12:08,973 [9] INFO IBTradeRealTime.UI.OrderManager - Order Executed
+2016-04-13 13:12:08,974 [9] INFO IBTradeRealTime.UI.OrderManager - *********************************************
+2016-04-13 13:12:09,715 [10] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - [Strategy] : Exit Strategy Executed!!!
+2016-04-13 13:12:09,716 [10] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - Executed Rule = Cutloss Random Trade
+2016-04-13 13:12:09,718 [10] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - Executed Rule Remark = 
+2016-04-13 13:12:09,719 [10] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - ******************************************************************
+2016-04-13 13:12:10,967 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - [Strategy] : Sell Signal Generated!
+2016-04-13 13:12:10,969 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - [Strategy] : residure=5; q=1; tickClose=21071
+2016-04-13 13:12:10,970 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRandom1 - ******************************************************************
+2016-04-13 13:12:11,271 [9] INFO IBTradeRealTime.UI.OrderManager - Total PnL : -15
+2016-04-13 13:12:11,273 [9] INFO IBTradeRealTime.UI.OrderManager - Order Executed
+2016-04-13 13:12:11,274 [9] INFO IBTradeRealTime.UI.OrderManager - *********************************************
+2016-04-13 13:12:11,459 [10] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - [Strategy] : Enter Strategy Executed!!!
+2016-04-13 13:12:11,460 [10] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - [Strategy] : Exit Strategy Executed!!!
+2016-04-13 13:12:11,461 [10] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - Executed Rule = Random Rule
+2016-04-13 13:12:11,461 [10] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - Executed Rule Remark = 
+2016-04-13 13:12:11,462 [10] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - ******************************************************************
+2016-04-14 00:27:11,814 [11] INFO IBTradeRealTime.app.AppMainteanceManager - Init Maintenance Flags Daily Reset.
+2016-04-14 00:27:11,827 [11] INFO IBTradeRealTime.app.AppMainteanceManager - [handleDailyAllFlagsReset]: Test 1
+2016-04-14 00:45:04,644 [11] INFO IBTradeRealTime.app.AppMainteanceManager - Init Maintenance Flags Daily Reset.
+2016-04-14 00:45:04,663 [11] INFO IBTradeRealTime.app.AppMainteanceManager - [handleDailyAllFlagsReset]: Test 1
+2016-04-14 09:12:05,480 [11] INFO IBTradeRealTime.app.AppMainteanceManager - Morning Reset RTBar Start.
+2016-04-14 09:12:05,483 [11] INFO IBTradeRealTime.app.AppMainteanceManager - Morning Reset RTBar End.
+2016-04-14 09:16:02,775 [12] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - Data is Ready.
+2016-04-14 09:16:02,775 [3] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - Data is Ready.
+2016-04-14 09:16:07,131 [12] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [cacluateRanges]: preData=IBTradeRealTime.MarketData.MarketDataElement
+2016-04-14 09:16:07,131 [3] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - [cacluateRanges]: preData=IBTradeRealTime.MarketData.MarketDataElement
+2016-04-14 09:16:07,133 [3] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - -----------------------------------------------
+2016-04-14 09:16:07,134 [3] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - [cacluateRanges]: trendBuy=21455
+2016-04-14 09:16:07,134 [3] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - [cacluateRanges]: sellCheck=21328
+2016-04-14 09:16:07,135 [3] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - [cacluateRanges]: revSell=21378
+2016-04-14 09:16:07,135 [3] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - -----------------------------------------------
+2016-04-14 09:16:07,133 [12] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - -----------------------------------------------
+2016-04-14 09:16:07,136 [12] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [cacluateRanges]: trendBuy=21507
+2016-04-14 09:16:07,137 [12] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [cacluateRanges]: sellCheck=21433
+2016-04-14 09:16:07,137 [12] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [cacluateRanges]: revSell=21378
+2016-04-14 09:16:07,138 [12] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - -----------------------------------------------
+2016-04-14 09:16:07,138 [12] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [cacluateRanges]: revBuy=20872
+2016-04-14 09:16:07,138 [12] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [cacluateRanges]: buyCheck=20688
+2016-04-14 09:16:07,139 [12] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [cacluateRanges]: trendSell=20613
+2016-04-14 09:16:07,139 [12] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - -----------------------------------------------
+2016-04-14 09:16:07,136 [3] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - [cacluateRanges]: revBuy=20872
+2016-04-14 09:16:07,140 [3] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - [cacluateRanges]: buyCheck=20689
+2016-04-14 09:16:07,140 [3] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - [cacluateRanges]: trendSell=20561
+2016-04-14 09:16:07,141 [3] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - -----------------------------------------------
+2016-04-14 09:16:07,144 [12] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [Strategy] : Enter SELL Generated !!! | MarketDataElement=ElementType=HLOC|symbol=HSI|contractType=FUT|time=14/4/2016 09:15:00 0000|contractCallPut=|high=21449|open=21433|low=21406|close=21417|volume=1379|bid=0|ask=0|strike=0
+2016-04-14 09:16:07,144 [3] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - [Strategy] : BUY Order Generated !!! | MarketDataElement=ElementType=HLOC|symbol=HSI|contractType=FUT|time=14/4/2016 09:15:00 0000|contractCallPut=|high=21449|open=21433|low=21406|close=21417|volume=1379|bid=0|ask=0|strike=0
+2016-04-14 09:21:18,605 [10] INFO IBTradeRealTime.UI.OrderManager - Total PnL : 0
+2016-04-14 09:21:18,608 [10] INFO IBTradeRealTime.UI.OrderManager - Order Executed
+2016-04-14 09:21:18,609 [10] INFO IBTradeRealTime.UI.OrderManager - *********************************************
+2016-04-14 09:21:18,691 [3] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - [Strategy] : Enter Strategy Executed!!!
+2016-04-14 09:21:18,691 [3] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - [Strategy] : Exit Strategy Executed!!!
+2016-04-14 09:21:18,692 [3] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - Executed Rule = Trend Buy Rule
+2016-04-14 09:21:18,692 [3] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - Executed Rule Remark = Place the BUY trade because TrendBuyLine=21455;
+2016-04-14 09:21:18,693 [3] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - ******************************************************************
+2016-04-14 09:48:06,857 [10] INFO IBTradeRealTime.UI.OrderManager - Total PnL : 0
+2016-04-14 09:48:06,858 [10] INFO IBTradeRealTime.UI.OrderManager - Order Executed
+2016-04-14 09:48:06,859 [10] INFO IBTradeRealTime.UI.OrderManager - *********************************************
+2016-04-14 09:48:06,988 [12] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - [Strategy] : Enter Strategy Executed!!!
+2016-04-14 09:48:06,990 [12] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - [Strategy] : Exit Strategy Executed!!!
+2016-04-14 09:48:06,991 [12] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - Executed Rule = Rev Sell Rule
+2016-04-14 09:48:06,992 [12] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - Executed Rule Remark = Place the SELL trade because RevSellLine=21378;
+2016-04-14 09:48:06,993 [12] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - ******************************************************************
+2016-04-14 09:53:30,243 [10] INFO IBTradeRealTime.UI.OrderManager - Total PnL : -125
+2016-04-14 09:53:30,244 [10] INFO IBTradeRealTime.UI.OrderManager - Order Executed
+2016-04-14 09:53:30,246 [10] INFO IBTradeRealTime.UI.OrderManager - *********************************************
+2016-04-14 09:53:30,526 [3] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - [Strategy] : Exit Strategy Executed!!!
+2016-04-14 09:53:30,527 [3] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - Executed Rule = Cutloss Loss Rule
+2016-04-14 09:53:30,528 [3] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - Executed Rule Remark = Cut Loss SELL trade| tickClose = 21457 | cutLossPrice = 21328 
+2016-04-14 09:53:30,530 [3] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - ******************************************************************
+2016-04-14 09:55:41,999 [3] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - [Strategy] : BUY Order Generated !!! | MarketDataElement=ElementType=HLOC|symbol=HSI|contractType=FUT|time=14/4/2016 09:54:00 0000|contractCallPut=|high=21355|open=21332|low=21332|close=21351|volume=696|bid=0|ask=0|strike=0
+2016-04-14 12:57:04,958 [11] INFO IBTradeRealTime.app.AppMainteanceManager - Lunch Reset RTBar Start.
+2016-04-14 12:57:04,959 [11] INFO IBTradeRealTime.app.AppMainteanceManager - Lunch Reset RTBar End.
+2016-04-14 16:14:02,352 [12] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [Strategy] : Cut Loss BUY Exit Generated !!!
+2016-04-14 16:14:02,354 [12] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [Strategy] : Dayend Exit BUY Generated !!! | MarketDataElement=IBTradeRealTime.MarketData.MarketDataElement
+2016-04-14 16:14:03,161 [10] INFO IBTradeRealTime.UI.OrderManager - Total PnL : 31
+2016-04-14 16:14:03,162 [10] INFO IBTradeRealTime.UI.OrderManager - Order Executed
+2016-04-14 16:14:03,163 [10] INFO IBTradeRealTime.UI.OrderManager - *********************************************
+2016-04-14 16:14:03,603 [12] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - [Strategy] : Exit Strategy Executed!!!
+2016-04-14 16:14:03,605 [12] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - Executed Rule = Day Exit Rule
+2016-04-14 16:14:03,606 [12] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - Executed Rule Remark = [Strategy] : Dayend Exit BUY Generated !!! | MarketDataElement=IBTradeRealTime.MarketData.MarketDataElement
+2016-04-14 16:14:03,607 [12] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - ******************************************************************
+2016-04-14 16:17:05,169 [11] INFO IBTradeRealTime.app.AppMainteanceManager - Daily Dayend Export Report Start.
+2016-04-14 16:17:05,177 [11] INFO IBTradeRealTime.app.AppMainteanceManager - Daily Dayend Export Report End.
+2016-04-15 00:10:05,671 [11] INFO IBTradeRealTime.app.AppMainteanceManager - Maintenance Flags Daily Reset.
+2016-04-15 00:10:05,673 [3] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - stgDailyReset Test 1
+2016-04-15 00:10:05,673 [12] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - stgDailyReset Test 1
+2016-04-15 01:20:10,021 [6] INFO IBTradeRealTime.app.AppMainteanceManager - Init Maintenance Flags Daily Reset.
+2016-04-15 01:20:10,031 [6] INFO IBTradeRealTime.app.AppMainteanceManager - [handleDailyAllFlagsReset]: Test 1
+2016-04-15 09:12:03,606 [6] INFO IBTradeRealTime.app.AppMainteanceManager - Morning Reset RTBar Start.
+2016-04-15 09:12:03,608 [6] INFO IBTradeRealTime.app.AppMainteanceManager - Morning Reset RTBar End.
+2016-04-15 09:16:01,531 [14] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - Data is Ready.
+2016-04-15 09:16:01,531 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - Data is Ready.
+2016-04-15 09:16:02,329 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [cacluateRanges]: preData=IBTradeRealTime.MarketData.MarketDataElement
+2016-04-15 09:16:02,330 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - -----------------------------------------------
+2016-04-15 09:16:02,331 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [cacluateRanges]: trendBuy=21598
+2016-04-15 09:16:02,332 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [cacluateRanges]: sellCheck=21564
+2016-04-15 09:16:02,333 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [cacluateRanges]: revSell=21488
+2016-04-15 09:16:02,335 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - -----------------------------------------------
+2016-04-15 09:16:02,336 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [cacluateRanges]: revBuy=21252
+2016-04-15 09:16:02,337 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [cacluateRanges]: buyCheck=21216
+2016-04-15 09:16:02,338 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [cacluateRanges]: trendSell=21182
+2016-04-15 09:16:02,339 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - -----------------------------------------------
+2016-04-15 09:16:02,330 [14] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - [cacluateRanges]: preData=IBTradeRealTime.MarketData.MarketDataElement
+2016-04-15 09:16:02,340 [14] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - -----------------------------------------------
+2016-04-15 09:16:02,343 [14] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - [cacluateRanges]: trendBuy=21614
+2016-04-15 09:16:02,345 [14] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - [cacluateRanges]: sellCheck=21555
+2016-04-15 09:16:02,346 [14] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - [cacluateRanges]: revSell=21488
+2016-04-15 09:16:02,347 [14] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - -----------------------------------------------
+2016-04-15 09:16:02,347 [14] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - [cacluateRanges]: revBuy=21252
+2016-04-15 09:16:02,348 [14] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - [cacluateRanges]: buyCheck=21257
+2016-04-15 09:16:02,348 [14] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - [cacluateRanges]: trendSell=21197
+2016-04-15 09:16:02,349 [14] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - -----------------------------------------------
+2016-04-15 12:57:03,411 [6] INFO IBTradeRealTime.app.AppMainteanceManager - Lunch Reset RTBar Start.
+2016-04-15 12:57:03,412 [6] INFO IBTradeRealTime.app.AppMainteanceManager - Lunch Reset RTBar End.
+2016-04-15 16:17:03,447 [6] INFO IBTradeRealTime.app.AppMainteanceManager - Daily Dayend Export Report Start.
+2016-04-15 16:17:03,460 [6] INFO IBTradeRealTime.app.AppMainteanceManager - Daily Dayend Export Report End.
+2016-04-16 00:10:03,556 [6] INFO IBTradeRealTime.app.AppMainteanceManager - Maintenance Flags Daily Reset.
+2016-04-16 00:10:03,560 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - stgDailyReset Test 1
+2016-04-16 00:10:03,560 [14] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - stgDailyReset Test 1
+2016-04-16 09:12:03,606 [6] INFO IBTradeRealTime.app.AppMainteanceManager - Morning Reset RTBar Start.
+2016-04-16 09:12:03,607 [6] INFO IBTradeRealTime.app.AppMainteanceManager - Morning Reset RTBar End.
+2016-04-16 12:57:03,826 [6] INFO IBTradeRealTime.app.AppMainteanceManager - Lunch Reset RTBar Start.
+2016-04-16 12:57:03,827 [6] INFO IBTradeRealTime.app.AppMainteanceManager - Lunch Reset RTBar End.
+2016-04-18 08:40:15,888 [11] INFO IBTradeRealTime.app.AppMainteanceManager - Init Maintenance Flags Daily Reset.
+2016-04-18 08:40:15,898 [11] INFO IBTradeRealTime.app.AppMainteanceManager - [handleDailyAllFlagsReset]: Test 1
+2016-04-18 08:51:40,113 [11] INFO IBTradeRealTime.app.AppMainteanceManager - Init Maintenance Flags Daily Reset.
+2016-04-18 08:51:40,142 [11] INFO IBTradeRealTime.app.AppMainteanceManager - [handleDailyAllFlagsReset]: Test 1
+2016-04-18 08:52:23,523 [6] INFO IBTradeRealTime.app.AppMainteanceManager - Init Maintenance Flags Daily Reset.
+2016-04-18 08:52:23,538 [6] INFO IBTradeRealTime.app.AppMainteanceManager - [handleDailyAllFlagsReset]: Test 1
+2016-04-18 08:53:50,273 [9] INFO IBTradeRealTime.app.AppMainteanceManager - Init Maintenance Flags Daily Reset.
+2016-04-18 08:53:50,283 [9] INFO IBTradeRealTime.app.AppMainteanceManager - [handleDailyAllFlagsReset]: Test 1
+2016-04-18 08:56:10,768 [10] INFO IBTradeRealTime.app.AppMainteanceManager - Init Maintenance Flags Daily Reset.
+2016-04-18 08:56:10,778 [10] INFO IBTradeRealTime.app.AppMainteanceManager - [handleDailyAllFlagsReset]: Test 1
+2016-04-18 09:12:01,369 [10] INFO IBTradeRealTime.app.AppMainteanceManager - Morning Reset RTBar Start.
+2016-04-18 09:12:01,372 [10] INFO IBTradeRealTime.app.AppMainteanceManager - Morning Reset RTBar End.
+2016-04-18 09:16:00,472 [15] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - Data is Ready.
+2016-04-18 09:16:00,472 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - Data is Ready.
+2016-04-18 09:16:01,609 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [cacluateRanges]: preData=IBTradeRealTime.MarketData.MarketDataElement
+2016-04-18 09:16:01,613 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - -----------------------------------------------
+2016-04-18 09:16:01,614 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [cacluateRanges]: trendBuy=21511
+2016-04-18 09:16:01,617 [15] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - [cacluateRanges]: preData=IBTradeRealTime.MarketData.MarketDataElement
+2016-04-18 09:16:01,624 [15] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - -----------------------------------------------
+2016-04-18 09:16:01,618 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [cacluateRanges]: sellCheck=21484
+2016-04-18 09:16:01,631 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [cacluateRanges]: revSell=21438
+2016-04-18 09:16:01,632 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - -----------------------------------------------
+2016-04-18 09:16:01,632 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [cacluateRanges]: revBuy=21254
+2016-04-18 09:16:01,633 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [cacluateRanges]: buyCheck=21214
+2016-04-18 09:16:01,633 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [cacluateRanges]: trendSell=21187
+2016-04-18 09:16:01,634 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - -----------------------------------------------
+2016-04-18 09:16:01,630 [15] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - [cacluateRanges]: trendBuy=21514
+2016-04-18 09:16:01,641 [15] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - [cacluateRanges]: sellCheck=21467
+2016-04-18 09:16:01,642 [15] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - [cacluateRanges]: revSell=21438
+2016-04-18 09:16:01,643 [15] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - -----------------------------------------------
+2016-04-18 09:16:01,644 [15] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - [cacluateRanges]: revBuy=21254
+2016-04-18 09:16:01,644 [15] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - [cacluateRanges]: buyCheck=21236
+2016-04-18 09:16:01,645 [15] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - [cacluateRanges]: trendSell=21189
+2016-04-18 09:16:01,646 [15] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - -----------------------------------------------
+2016-04-18 12:57:01,358 [10] INFO IBTradeRealTime.app.AppMainteanceManager - Lunch Reset RTBar Start.
+2016-04-18 12:57:01,359 [10] INFO IBTradeRealTime.app.AppMainteanceManager - Lunch Reset RTBar End.
+2016-04-18 16:06:12,063 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [Strategy] : Enter BUY Generated !!! | MarketDataElement=ElementType=HLOC|symbol=HSI|contractType=FUT|time=18/4/2016 16:05:00 0000|contractCallPut=|high=21185|open=21174|low=21171|close=21180|volume=185|bid=0|ask=0|strike=0
+2016-04-18 16:17:01,378 [10] INFO IBTradeRealTime.app.AppMainteanceManager - Daily Dayend Export Report Start.
+2016-04-18 16:17:01,383 [10] INFO IBTradeRealTime.app.AppMainteanceManager - Daily Dayend Export Report End.
+2016-04-19 00:10:01,985 [10] INFO IBTradeRealTime.app.AppMainteanceManager - Maintenance Flags Daily Reset.
+2016-04-19 00:10:01,989 [15] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - stgDailyReset Test 1
+2016-04-19 00:10:01,989 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - stgDailyReset Test 1
+2016-04-19 09:12:01,556 [10] INFO IBTradeRealTime.app.AppMainteanceManager - Morning Reset RTBar Start.
+2016-04-19 09:12:01,558 [10] INFO IBTradeRealTime.app.AppMainteanceManager - Morning Reset RTBar End.
+2016-04-19 09:15:58,858 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - Data is Ready.
+2016-04-19 09:15:58,858 [15] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - Data is Ready.
+2016-04-19 09:15:58,895 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [cacluateRanges]: preData=IBTradeRealTime.MarketData.MarketDataElement
+2016-04-19 09:15:58,895 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - -----------------------------------------------
+2016-04-19 09:15:58,896 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [cacluateRanges]: trendBuy=21276
+2016-04-19 09:15:58,896 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [cacluateRanges]: sellCheck=21252
+2016-04-19 09:15:58,897 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [cacluateRanges]: revSell=21228
+2016-04-19 09:15:58,897 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - -----------------------------------------------
+2016-04-19 09:15:58,897 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [cacluateRanges]: revBuy=21064
+2016-04-19 09:15:58,898 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [cacluateRanges]: buyCheck=21010
+2016-04-19 09:15:58,898 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [cacluateRanges]: trendSell=20985
+2016-04-19 09:15:58,899 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - -----------------------------------------------
+2016-04-19 09:15:58,895 [15] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - [cacluateRanges]: preData=IBTradeRealTime.MarketData.MarketDataElement
+2016-04-19 09:15:58,900 [15] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - -----------------------------------------------
+2016-04-19 09:15:58,901 [15] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - [cacluateRanges]: trendBuy=21264
+2016-04-19 09:15:58,901 [15] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - [cacluateRanges]: sellCheck=21223
+2016-04-19 09:15:58,901 [15] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - [cacluateRanges]: revSell=21228
+2016-04-19 09:15:58,902 [15] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - -----------------------------------------------
+2016-04-19 09:15:58,902 [15] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - [cacluateRanges]: revBuy=21064
+2016-04-19 09:15:58,903 [15] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - [cacluateRanges]: buyCheck=21015
+2016-04-19 09:15:58,903 [15] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - [cacluateRanges]: trendSell=20974
+2016-04-19 09:15:58,903 [15] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - -----------------------------------------------
+2016-04-19 12:57:01,593 [10] INFO IBTradeRealTime.app.AppMainteanceManager - Lunch Reset RTBar Start.
+2016-04-19 12:57:01,594 [10] INFO IBTradeRealTime.app.AppMainteanceManager - Lunch Reset RTBar End.
+2016-04-19 16:17:01,611 [10] INFO IBTradeRealTime.app.AppMainteanceManager - Daily Dayend Export Report Start.
+2016-04-19 16:17:01,613 [10] INFO IBTradeRealTime.app.AppMainteanceManager - Daily Dayend Export Report End.
+2016-04-20 00:10:02,170 [10] INFO IBTradeRealTime.app.AppMainteanceManager - Maintenance Flags Daily Reset.
+2016-04-20 00:10:02,170 [15] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - stgDailyReset Test 1
+2016-04-20 00:10:02,170 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - stgDailyReset Test 1
+2016-04-20 09:12:01,596 [10] INFO IBTradeRealTime.app.AppMainteanceManager - Morning Reset RTBar Start.
+2016-04-20 09:12:01,598 [10] INFO IBTradeRealTime.app.AppMainteanceManager - Morning Reset RTBar End.
+2016-04-20 09:15:57,859 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - Data is Ready.
+2016-04-20 09:15:57,859 [15] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - Data is Ready.
+2016-04-20 09:15:57,932 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [cacluateRanges]: preData=IBTradeRealTime.MarketData.MarketDataElement
+2016-04-20 09:15:57,932 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - -----------------------------------------------
+2016-04-20 09:15:57,933 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [cacluateRanges]: trendBuy=21621
+2016-04-20 09:15:57,933 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [cacluateRanges]: sellCheck=21586
+2016-04-20 09:15:57,934 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [cacluateRanges]: revSell=21539
+2016-04-20 09:15:57,934 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - -----------------------------------------------
+2016-04-20 09:15:57,935 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [cacluateRanges]: revBuy=21303
+2016-04-20 09:15:57,935 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [cacluateRanges]: buyCheck=21239
+2016-04-20 09:15:57,935 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [cacluateRanges]: trendSell=21204
+2016-04-20 09:15:57,936 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - -----------------------------------------------
+2016-04-20 09:15:57,932 [15] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - [cacluateRanges]: preData=IBTradeRealTime.MarketData.MarketDataElement
+2016-04-20 09:15:57,937 [15] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - -----------------------------------------------
+2016-04-20 09:15:57,938 [15] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - [cacluateRanges]: trendBuy=21614
+2016-04-20 09:15:57,938 [15] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - [cacluateRanges]: sellCheck=21555
+2016-04-20 09:15:57,938 [15] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - [cacluateRanges]: revSell=21539
+2016-04-20 09:15:57,939 [15] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - -----------------------------------------------
+2016-04-20 09:15:57,939 [15] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - [cacluateRanges]: revBuy=21303
+2016-04-20 09:15:57,940 [15] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - [cacluateRanges]: buyCheck=21257
+2016-04-20 09:15:57,940 [15] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - [cacluateRanges]: trendSell=21198
+2016-04-20 09:15:57,941 [15] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - -----------------------------------------------
+2016-04-20 11:00:13,271 [15] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - [Strategy] : SELL Order Generated !!! | MarketDataElement=ElementType=HLOC|symbol=HSI|contractType=FUT|time=20/4/2016 10:59:00 0000|contractCallPut=|high=21313|open=21307|low=21305|close=21307|volume=255|bid=0|ask=0|strike=0
+2016-04-20 11:16:57,875 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [Strategy] : Enter BUY Generated !!! | MarketDataElement=ElementType=HLOC|symbol=HSI|contractType=FUT|time=20/4/2016 11:16:00 0000|contractCallPut=|high=21267|open=21266|low=21236|close=21241|volume=992|bid=0|ask=0|strike=0
+2016-04-20 12:57:01,634 [10] INFO IBTradeRealTime.app.AppMainteanceManager - Lunch Reset RTBar Start.
+2016-04-20 12:57:01,635 [10] INFO IBTradeRealTime.app.AppMainteanceManager - Lunch Reset RTBar End.
+2016-04-20 13:04:37,127 [9] INFO IBTradeRealTime.UI.OrderManager - Total PnL : 0
+2016-04-20 13:04:37,128 [9] INFO IBTradeRealTime.UI.OrderManager - Order Executed
+2016-04-20 13:04:37,129 [9] INFO IBTradeRealTime.UI.OrderManager - *********************************************
+2016-04-20 13:04:37,199 [15] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - [Strategy] : Enter Strategy Executed!!!
+2016-04-20 13:04:37,199 [15] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - [Strategy] : Exit Strategy Executed!!!
+2016-04-20 13:04:37,200 [15] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - Executed Rule = Rev Sell Rule
+2016-04-20 13:04:37,200 [15] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - Executed Rule Remark = Place the Sell trade because TrendSellLine=21198;
+2016-04-20 13:04:37,201 [15] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - ******************************************************************
+2016-04-20 15:46:53,097 [9] INFO IBTradeRealTime.UI.OrderManager - Total PnL : -55
+2016-04-20 15:46:53,098 [9] INFO IBTradeRealTime.UI.OrderManager - Order Executed
+2016-04-20 15:46:53,099 [9] INFO IBTradeRealTime.UI.OrderManager - *********************************************
+2016-04-20 15:46:53,308 [15] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - [Strategy] : Exit Strategy Executed!!!
+2016-04-20 15:46:53,309 [15] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - Executed Rule = Cutloss Loss Rule
+2016-04-20 15:46:53,310 [15] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - Executed Rule Remark = Cut Loss BUY trade| tickClose = 21198 | cutLossPrice = 21257 
+2016-04-20 15:46:53,310 [15] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - ******************************************************************
+2016-04-20 15:46:53,311 [15] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - [Strategy] : SELL Order Generated !!! | MarketDataElement=ElementType=HLOC|symbol=HSI|contractType=FUT|time=20/4/2016 15:45:00 0000|contractCallPut=|high=21254|open=21235|low=21235|close=21246|volume=747|bid=0|ask=0|strike=0
+2016-04-20 16:07:54,614 [9] INFO IBTradeRealTime.UI.OrderManager - Total PnL : 0
+2016-04-20 16:07:54,615 [9] INFO IBTradeRealTime.UI.OrderManager - Order Executed
+2016-04-20 16:07:54,617 [9] INFO IBTradeRealTime.UI.OrderManager - *********************************************
+2016-04-20 16:07:54,766 [11] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - [Strategy] : Enter Strategy Executed!!!
+2016-04-20 16:07:54,767 [11] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - [Strategy] : Exit Strategy Executed!!!
+2016-04-20 16:07:54,767 [11] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - Executed Rule = Rev Buy Rule
+2016-04-20 16:07:54,768 [11] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - Executed Rule Remark = Place the BUY trade because RevBuyLine=21303;
+2016-04-20 16:07:54,768 [11] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - ******************************************************************
+2016-04-20 16:13:57,247 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [Strategy] : Cut Loss SELL Exit Generated !!!
+2016-04-20 16:13:57,248 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [Strategy] : Dayend Exit Sell Generated !!! | MarketDataElement=IBTradeRealTime.MarketData.MarketDataElement
+2016-04-20 16:13:57,685 [9] INFO IBTradeRealTime.UI.OrderManager - Total PnL : -31
+2016-04-20 16:13:57,687 [9] INFO IBTradeRealTime.UI.OrderManager - Order Executed
+2016-04-20 16:13:57,689 [9] INFO IBTradeRealTime.UI.OrderManager - *********************************************
+2016-04-20 16:13:58,749 [11] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - [Strategy] : Exit Strategy Executed!!!
+2016-04-20 16:13:58,749 [11] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - Executed Rule = Day Exit Rule
+2016-04-20 16:13:58,750 [11] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - Executed Rule Remark = [Strategy] : Dayend Exit Sell Generated !!! | MarketDataElement=IBTradeRealTime.MarketData.MarketDataElement
+2016-04-20 16:13:58,750 [11] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - ******************************************************************
+2016-04-20 16:17:01,745 [10] INFO IBTradeRealTime.app.AppMainteanceManager - Daily Dayend Export Report Start.
+2016-04-20 16:17:01,749 [10] INFO IBTradeRealTime.app.AppMainteanceManager - Daily Dayend Export Report End.
+2016-04-21 00:10:01,388 [10] INFO IBTradeRealTime.app.AppMainteanceManager - Maintenance Flags Daily Reset.
+2016-04-21 00:10:01,391 [15] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - stgDailyReset Test 1
+2016-04-21 00:10:01,391 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - stgDailyReset Test 1
+2016-04-21 09:12:01,497 [10] INFO IBTradeRealTime.app.AppMainteanceManager - Morning Reset RTBar Start.
+2016-04-21 09:12:01,499 [10] INFO IBTradeRealTime.app.AppMainteanceManager - Morning Reset RTBar End.
+2016-04-21 09:15:56,247 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - Data is Ready.
+2016-04-21 09:15:56,247 [15] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - Data is Ready.
+2016-04-21 09:15:56,290 [15] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - [cacluateRanges]: preData=IBTradeRealTime.MarketData.MarketDataElement
+2016-04-21 09:15:56,290 [15] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - -----------------------------------------------
+2016-04-21 09:15:56,291 [15] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - [cacluateRanges]: trendBuy=21624
+2016-04-21 09:15:56,291 [15] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - [cacluateRanges]: sellCheck=21532
+2016-04-21 09:15:56,290 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [cacluateRanges]: preData=IBTradeRealTime.MarketData.MarketDataElement
+2016-04-21 09:15:56,292 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - -----------------------------------------------
+2016-04-21 09:15:56,293 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [cacluateRanges]: trendBuy=21615
+2016-04-21 09:15:56,293 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [cacluateRanges]: sellCheck=21562
+2016-04-21 09:15:56,293 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [cacluateRanges]: revSell=21466
+2016-04-21 09:15:56,294 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - -----------------------------------------------
+2016-04-21 09:15:56,294 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [cacluateRanges]: revBuy=21104
+2016-04-21 09:15:56,295 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [cacluateRanges]: buyCheck=21029
+2016-04-21 09:15:56,295 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [cacluateRanges]: trendSell=20975
+2016-04-21 09:15:56,292 [15] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - [cacluateRanges]: revSell=21466
+2016-04-21 09:15:56,296 [15] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - -----------------------------------------------
+2016-04-21 09:15:56,296 [15] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - [cacluateRanges]: revBuy=21104
+2016-04-21 09:15:56,297 [15] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - [cacluateRanges]: buyCheck=21075
+2016-04-21 09:15:56,297 [15] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - [cacluateRanges]: trendSell=20984
+2016-04-21 09:15:56,298 [15] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - -----------------------------------------------
+2016-04-21 09:15:56,295 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - -----------------------------------------------
+2016-04-21 09:49:11,494 [15] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - [Strategy] : BUY Order Generated !!! | MarketDataElement=ElementType=HLOC|symbol=HSI|contractType=FUT|time=21/4/2016 09:48:00 0000|contractCallPut=|high=21455|open=21421|low=21417|close=21442|volume=1088|bid=0|ask=0|strike=0
+2016-04-21 10:05:56,498 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [Strategy] : Enter SELL Generated !!! | MarketDataElement=ElementType=HLOC|symbol=HSI|contractType=FUT|time=21/4/2016 10:05:00 0000|contractCallPut=|high=21573|open=21540|low=21540|close=21570|volume=881|bid=0|ask=0|strike=0
+2016-04-21 11:17:21,856 [9] INFO IBTradeRealTime.UI.OrderManager - Total PnL : 0
+2016-04-21 11:17:21,857 [9] INFO IBTradeRealTime.UI.OrderManager - Order Executed
+2016-04-21 11:17:21,857 [9] INFO IBTradeRealTime.UI.OrderManager - *********************************************
+2016-04-21 11:17:21,895 [15] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - [Strategy] : Enter Strategy Executed!!!
+2016-04-21 11:17:21,895 [15] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - [Strategy] : Exit Strategy Executed!!!
+2016-04-21 11:17:21,896 [15] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - Executed Rule = Trend Buy Rule
+2016-04-21 11:17:21,896 [15] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - Executed Rule Remark = Place the BUY trade because TrendBuyLine=21624;
+2016-04-21 11:17:21,897 [15] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - ******************************************************************
+2016-04-21 12:57:01,570 [10] INFO IBTradeRealTime.app.AppMainteanceManager - Lunch Reset RTBar Start.
+2016-04-21 12:57:01,573 [10] INFO IBTradeRealTime.app.AppMainteanceManager - Lunch Reset RTBar End.
+2016-04-21 14:50:07,769 [9] INFO IBTradeRealTime.UI.OrderManager - Total PnL : -89
+2016-04-21 14:50:07,770 [9] INFO IBTradeRealTime.UI.OrderManager - Order Executed
+2016-04-21 14:50:07,771 [9] INFO IBTradeRealTime.UI.OrderManager - *********************************************
+2016-04-21 14:50:07,828 [15] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - [Strategy] : Exit Strategy Executed!!!
+2016-04-21 14:50:07,828 [15] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - Executed Rule = Cutloss Loss Rule
+2016-04-21 14:50:07,829 [15] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - Executed Rule Remark = Cut Loss SELL trade| tickClose = 21625 | cutLossPrice = 21532 
+2016-04-21 14:50:07,830 [15] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - ******************************************************************
+2016-04-21 14:50:07,830 [15] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - [Strategy] : BUY Order Generated !!! | MarketDataElement=ElementType=HLOC|symbol=HSI|contractType=FUT|time=21/4/2016 14:49:00 0000|contractCallPut=|high=21571|open=21563|low=21553|close=21553|volume=313|bid=0|ask=0|strike=0
+2016-04-21 15:59:08,179 [9] INFO IBTradeRealTime.UI.OrderManager - Total PnL : -89
+2016-04-21 15:59:08,180 [9] INFO IBTradeRealTime.UI.OrderManager - Order Executed
+2016-04-21 15:59:08,180 [9] INFO IBTradeRealTime.UI.OrderManager - *********************************************
+2016-04-21 15:59:08,397 [15] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - [Strategy] : Enter Strategy Executed!!!
+2016-04-21 15:59:08,397 [15] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - [Strategy] : Exit Strategy Executed!!!
+2016-04-21 15:59:08,398 [15] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - Executed Rule = Trend Buy Rule
+2016-04-21 15:59:08,398 [15] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - Executed Rule Remark = Place the BUY trade because TrendBuyLine=21624;
+2016-04-21 15:59:08,399 [15] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - ******************************************************************
+2016-04-21 16:13:55,737 [15] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - [Strategy] : Cut Loss SELL Exit Generated !!!
+2016-04-21 16:13:55,738 [15] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - [Strategy] : Dayend Exit Sell Generated !!! | MarketDataElement=IBTradeRealTime.MarketData.MarketDataElement
+2016-04-21 16:13:56,117 [9] INFO IBTradeRealTime.UI.OrderManager - Total PnL : -110
+2016-04-21 16:13:56,118 [9] INFO IBTradeRealTime.UI.OrderManager - Order Executed
+2016-04-21 16:13:56,119 [9] INFO IBTradeRealTime.UI.OrderManager - *********************************************
+2016-04-21 16:13:56,243 [15] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - [Strategy] : Exit Strategy Executed!!!
+2016-04-21 16:13:56,243 [15] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - Executed Rule = Day Exit Rule
+2016-04-21 16:13:56,244 [15] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - Executed Rule Remark = [Strategy] : Dayend Exit Sell Generated !!! | MarketDataElement=IBTradeRealTime.MarketData.MarketDataElement
+2016-04-21 16:13:56,244 [15] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - ******************************************************************
+2016-04-21 16:17:01,317 [10] INFO IBTradeRealTime.app.AppMainteanceManager - Daily Dayend Export Report Start.
+2016-04-21 16:17:01,320 [10] INFO IBTradeRealTime.app.AppMainteanceManager - Daily Dayend Export Report End.
+2016-04-22 00:10:01,757 [10] INFO IBTradeRealTime.app.AppMainteanceManager - Maintenance Flags Daily Reset.
+2016-04-22 00:10:01,757 [15] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - stgDailyReset Test 1
+2016-04-22 00:10:01,757 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - stgDailyReset Test 1
+2016-04-22 09:12:01,647 [10] INFO IBTradeRealTime.app.AppMainteanceManager - Morning Reset RTBar Start.
+2016-04-22 09:12:01,649 [10] INFO IBTradeRealTime.app.AppMainteanceManager - Morning Reset RTBar End.
+2016-04-22 09:15:54,716 [15] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - Data is Ready.
+2016-04-22 09:15:54,716 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - Data is Ready.
+2016-04-22 09:15:54,747 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [cacluateRanges]: preData=IBTradeRealTime.MarketData.MarketDataElement
+2016-04-22 09:15:54,748 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - -----------------------------------------------
+2016-04-22 09:15:54,748 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [cacluateRanges]: trendBuy=21805
+2016-04-22 09:15:54,749 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [cacluateRanges]: sellCheck=21761
+2016-04-22 09:15:54,752 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [cacluateRanges]: revSell=21712
+2016-04-22 09:15:54,753 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - -----------------------------------------------
+2016-04-22 09:15:54,753 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [cacluateRanges]: revBuy=21415
+2016-04-22 09:15:54,753 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [cacluateRanges]: buyCheck=21323
+2016-04-22 09:15:54,754 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [cacluateRanges]: trendSell=21279
+2016-04-22 09:15:54,754 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - -----------------------------------------------
+2016-04-22 09:15:54,747 [15] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - [cacluateRanges]: preData=IBTradeRealTime.MarketData.MarketDataElement
+2016-04-22 09:15:54,755 [15] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - -----------------------------------------------
+2016-04-22 09:15:54,756 [15] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - [cacluateRanges]: trendBuy=21787
+2016-04-22 09:15:54,756 [15] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - [cacluateRanges]: sellCheck=21712
+2016-04-22 09:15:54,757 [15] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - [cacluateRanges]: revSell=21712
+2016-04-22 09:15:54,757 [15] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - -----------------------------------------------
+2016-04-22 09:15:54,758 [15] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - [cacluateRanges]: revBuy=21415
+2016-04-22 09:15:54,758 [15] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - [cacluateRanges]: buyCheck=21337
+2016-04-22 09:15:54,758 [15] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - [cacluateRanges]: trendSell=21261
+2016-04-22 09:15:54,759 [15] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - -----------------------------------------------
+2016-04-22 09:15:54,759 [15] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - [Strategy] : SELL Order Generated !!! | MarketDataElement=ElementType=HLOC|symbol=HSI|contractType=FUT|time=22/4/2016 09:15:00 0000|contractCallPut=|high=21402|open=21378|low=21342|close=21370|volume=1215|bid=0|ask=0|strike=0
+2016-04-22 12:57:01,998 [10] INFO IBTradeRealTime.app.AppMainteanceManager - Lunch Reset RTBar Start.
+2016-04-22 12:57:02,001 [10] INFO IBTradeRealTime.app.AppMainteanceManager - Lunch Reset RTBar End.
+2016-04-22 16:17:01,346 [10] INFO IBTradeRealTime.app.AppMainteanceManager - Daily Dayend Export Report Start.
+2016-04-22 16:17:01,349 [10] INFO IBTradeRealTime.app.AppMainteanceManager - Daily Dayend Export Report End.
+2016-04-23 00:10:01,358 [10] INFO IBTradeRealTime.app.AppMainteanceManager - Maintenance Flags Daily Reset.
+2016-04-23 00:10:01,360 [11] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - stgDailyReset Test 1
+2016-04-23 00:10:01,360 [15] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - stgDailyReset Test 1
+2016-04-23 09:12:01,951 [10] INFO IBTradeRealTime.app.AppMainteanceManager - Morning Reset RTBar Start.
+2016-04-23 09:12:01,952 [10] INFO IBTradeRealTime.app.AppMainteanceManager - Morning Reset RTBar End.
+2016-04-23 12:57:01,573 [10] INFO IBTradeRealTime.app.AppMainteanceManager - Lunch Reset RTBar Start.
+2016-04-23 12:57:01,574 [10] INFO IBTradeRealTime.app.AppMainteanceManager - Lunch Reset RTBar End.
+2016-04-23 16:17:01,377 [10] INFO IBTradeRealTime.app.AppMainteanceManager - Daily Dayend Export Report Start.
+2016-04-23 16:17:01,380 [10] INFO IBTradeRealTime.app.AppMainteanceManager - Daily Dayend Export Report End.
+2016-04-26 09:22:39,986 [6] INFO IBTradeRealTime.app.AppMainteanceManager - Init Maintenance Flags Daily Reset.
+2016-04-26 09:22:39,986 [6] INFO IBTradeRealTime.app.AppMainteanceManager - [handleDailyAllFlagsReset]: Test 1
+2016-04-26 09:24:00,502 [14] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - Data is Ready.
+2016-04-26 09:24:00,502 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - Data is Ready.
+2016-04-26 09:24:00,534 [14] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - [cacluateRanges]: preData=IBTradeRealTime.MarketData.MarketDataElement
+2016-04-26 09:24:00,534 [14] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - -----------------------------------------------
+2016-04-26 09:24:00,534 [14] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - [cacluateRanges]: trendBuy=21497
+2016-04-26 09:24:00,534 [14] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - [cacluateRanges]: sellCheck=21454
+2016-04-26 09:24:00,534 [14] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - [cacluateRanges]: revSell=21401
+2016-04-26 09:24:00,534 [14] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - -----------------------------------------------
+2016-04-26 09:24:00,549 [14] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - [cacluateRanges]: revBuy=21227
+2016-04-26 09:24:00,549 [14] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - [cacluateRanges]: buyCheck=21234
+2016-04-26 09:24:00,549 [14] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - [cacluateRanges]: trendSell=21190
+2016-04-26 09:24:00,549 [14] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - -----------------------------------------------
+2016-04-26 09:24:00,534 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [cacluateRanges]: preData=IBTradeRealTime.MarketData.MarketDataElement
+2016-04-26 09:24:00,549 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - -----------------------------------------------
+2016-04-26 09:24:00,549 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [cacluateRanges]: trendBuy=21484
+2016-04-26 09:24:00,549 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [cacluateRanges]: sellCheck=21459
+2016-04-26 09:24:00,549 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [cacluateRanges]: revSell=21401
+2016-04-26 09:24:00,549 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - -----------------------------------------------
+2016-04-26 09:24:00,549 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [cacluateRanges]: revBuy=21227
+2016-04-26 09:24:00,549 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [cacluateRanges]: buyCheck=21202
+2016-04-26 09:24:00,549 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [cacluateRanges]: trendSell=21177
+2016-04-26 09:24:00,549 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - -----------------------------------------------
+2016-04-26 09:35:25,768 [14] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - [Strategy] : BUY Order Generated !!! | MarketDataElement=ElementType=HLOC|symbol=HSI|contractType=FUT|time=26/4/2016 09:34:00 0000|contractCallPut=|high=21394|open=21367|low=21365|close=21390|volume=957|bid=0|ask=0|strike=0
+2016-04-26 10:19:14,062 [14] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - [Strategy] : SELL Order Generated !!! | MarketDataElement=ElementType=HLOC|symbol=HSI|contractType=FUT|time=26/4/2016 10:18:00 0000|contractCallPut=|high=21254|open=21245|low=21241|close=21241|volume=853|bid=0|ask=0|strike=0
+2016-04-26 10:21:11,194 [9] INFO IBTradeRealTime.UI.OrderManager - Total PnL : 0
+2016-04-26 10:21:11,194 [9] INFO IBTradeRealTime.UI.OrderManager - Order Executed
+2016-04-26 10:21:11,194 [9] INFO IBTradeRealTime.UI.OrderManager - *********************************************
+2016-04-26 10:21:11,288 [14] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - [Strategy] : Enter Strategy Executed!!!
+2016-04-26 10:21:11,288 [14] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - [Strategy] : Exit Strategy Executed!!!
+2016-04-26 10:21:11,288 [14] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - Executed Rule = Rev Sell Rule
+2016-04-26 10:21:11,288 [14] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - Executed Rule Remark = Place the Sell trade because TrendSellLine=21190;
+2016-04-26 10:21:11,288 [14] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - ******************************************************************
+2016-04-26 10:22:00,417 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [Strategy] : Enter BUY Generated !!! | MarketDataElement=ElementType=HLOC|symbol=HSI|contractType=FUT|time=26/4/2016 10:21:00 0000|contractCallPut=|high=21227|open=21227|low=21185|close=21201|volume=1228|bid=0|ask=0|strike=0
+2016-04-26 10:24:01,408 [9] INFO IBTradeRealTime.UI.OrderManager - Total PnL : 0
+2016-04-26 10:24:01,408 [9] INFO IBTradeRealTime.UI.OrderManager - Order Executed
+2016-04-26 10:24:01,408 [9] INFO IBTradeRealTime.UI.OrderManager - *********************************************
+2016-04-26 10:24:01,486 [10] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - [Strategy] : Enter Strategy Executed!!!
+2016-04-26 10:24:01,486 [10] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - [Strategy] : Exit Strategy Executed!!!
+2016-04-26 10:24:01,486 [10] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - Executed Rule = Rev Buy Rule
+2016-04-26 10:24:01,486 [10] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - Executed Rule Remark = Place the BUY trade because RevBuyLine=21227;
+2016-04-26 10:24:01,486 [10] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - ******************************************************************
+2016-04-26 10:26:03,582 [9] INFO IBTradeRealTime.UI.OrderManager - Total PnL : -23
+2016-04-26 10:26:03,582 [9] INFO IBTradeRealTime.UI.OrderManager - Order Executed
+2016-04-26 10:26:03,582 [9] INFO IBTradeRealTime.UI.OrderManager - *********************************************
+2016-04-26 10:26:03,676 [10] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - [Strategy] : Exit Strategy Executed!!!
+2016-04-26 10:26:03,676 [10] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - Executed Rule = Cutloss Loss Rule
+2016-04-26 10:26:03,676 [10] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - Executed Rule Remark = 
+2016-04-26 10:26:03,676 [10] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - ******************************************************************
+2016-04-26 10:26:03,676 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [Strategy] : Enter BUY Generated !!! | MarketDataElement=ElementType=HLOC|symbol=HSI|contractType=FUT|time=26/4/2016 10:25:00 0000|contractCallPut=|high=21223|open=21222|low=21210|close=21210|volume=369|bid=0|ask=0|strike=0
+2016-04-26 12:57:01,609 [6] INFO IBTradeRealTime.app.AppMainteanceManager - Lunch Reset RTBar Start.
+2016-04-26 12:57:01,609 [6] INFO IBTradeRealTime.app.AppMainteanceManager - Lunch Reset RTBar End.
+2016-04-26 14:41:58,626 [9] INFO IBTradeRealTime.UI.OrderManager - Total PnL : -23
+2016-04-26 14:41:58,627 [9] INFO IBTradeRealTime.UI.OrderManager - Order Executed
+2016-04-26 14:41:58,628 [9] INFO IBTradeRealTime.UI.OrderManager - *********************************************
+2016-04-26 14:41:58,817 [10] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - [Strategy] : Enter Strategy Executed!!!
+2016-04-26 14:41:58,817 [10] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - [Strategy] : Exit Strategy Executed!!!
+2016-04-26 14:41:58,818 [10] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - Executed Rule = Rev Buy Rule
+2016-04-26 14:41:58,818 [10] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - Executed Rule Remark = Place the BUY trade because RevBuyLine=21227;
+2016-04-26 14:41:58,819 [10] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - ******************************************************************
+2016-04-26 14:42:02,146 [9] INFO IBTradeRealTime.UI.OrderManager - Total PnL : -43
+2016-04-26 14:42:02,147 [9] INFO IBTradeRealTime.UI.OrderManager - Order Executed
+2016-04-26 14:42:02,147 [9] INFO IBTradeRealTime.UI.OrderManager - *********************************************
+2016-04-26 14:42:02,321 [14] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - [Strategy] : Exit Strategy Executed!!!
+2016-04-26 14:42:02,321 [14] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - Executed Rule = Cutloss Loss Rule
+2016-04-26 14:42:02,322 [14] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - Executed Rule Remark = Cut Loss BUY trade| tickClose = 21188 | cutLossPrice = 21234 
+2016-04-26 14:42:02,322 [14] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - ******************************************************************
+2016-04-26 14:43:33,958 [14] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - [Strategy] : SELL Order Generated !!! | MarketDataElement=ElementType=HLOC|symbol=HSI|contractType=FUT|time=26/4/2016 14:42:00 0000|contractCallPut=|high=21240|open=21229|low=21228|close=21232|volume=665|bid=0|ask=0|strike=0
+2016-04-26 15:59:23,942 [9] INFO IBTradeRealTime.UI.OrderManager - Total PnL : 151
+2016-04-26 15:59:23,942 [9] INFO IBTradeRealTime.UI.OrderManager - Order Executed
+2016-04-26 15:59:23,942 [9] INFO IBTradeRealTime.UI.OrderManager - *********************************************
+2016-04-26 15:59:24,083 [10] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - [Strategy] : Exit Strategy Executed!!!
+2016-04-26 15:59:24,083 [10] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - Executed Rule = Profit Target Rule
+2016-04-26 15:59:24,083 [10] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - Executed Rule Remark = 
+2016-04-26 15:59:24,083 [10] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - ******************************************************************
+2016-04-26 15:59:25,083 [14] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerTrend1 - [Strategy] : BUY Order Generated !!! | MarketDataElement=ElementType=HLOC|symbol=HSI|contractType=FUT|time=26/4/2016 15:58:00 0000|contractCallPut=|high=21395|open=21394|low=21383|close=21390|volume=396|bid=0|ask=0|strike=0
+2016-04-26 16:17:01,650 [6] INFO IBTradeRealTime.app.AppMainteanceManager - Daily Dayend Export Report Start.
+2016-04-26 16:17:01,655 [6] INFO IBTradeRealTime.app.AppMainteanceManager - Daily Dayend Export Report End.
+2016-07-04 02:54:15,220 [6] INFO IBTradeRealTime.app.AppMainteanceManager - Init Maintenance Flags Daily Reset.
+2016-07-04 02:54:15,247 [6] INFO IBTradeRealTime.app.AppMainteanceManager - [handleDailyAllFlagsReset]: Test 1
+2016-07-04 09:12:02,492 [6] INFO IBTradeRealTime.app.AppMainteanceManager - Morning Reset RTBar Start.
+2016-07-04 09:12:02,494 [6] INFO IBTradeRealTime.app.AppMainteanceManager - Morning Reset RTBar End.
+2016-07-04 09:16:00,569 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - Data is Ready.
+2016-07-04 09:16:01,701 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [cacluateRanges]: preData=IBTradeRealTime.MarketData.MarketDataElement
+2016-07-04 09:16:01,702 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - -----------------------------------------------
+2016-07-04 09:16:01,703 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [cacluateRanges]: trendBuy=21138
+2016-07-04 09:16:01,703 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [cacluateRanges]: sellCheck=21090
+2016-07-04 09:16:01,704 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [cacluateRanges]: revSell=21053
+2016-07-04 09:16:01,704 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - -----------------------------------------------
+2016-07-04 09:16:01,705 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [cacluateRanges]: revBuy=20728
+2016-07-04 09:16:01,705 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [cacluateRanges]: buyCheck=20611
+2016-07-04 09:16:01,706 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [cacluateRanges]: trendSell=20563
+2016-07-04 09:16:01,706 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - -----------------------------------------------
+2016-07-04 10:01:00,452 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [Strategy] : Enter SELL Generated !!! | MarketDataElement=ElementType=HLOC|symbol=HSI|contractType=FUT|time=4/7/2016 10:00:00 0000|contractCallPut=|high=21101|open=21057|low=21057|close=21096|volume=1630|bid=0|ask=0|strike=0
+2016-07-04 12:57:01,675 [6] INFO IBTradeRealTime.app.AppMainteanceManager - Lunch Reset RTBar Start.
+2016-07-04 12:57:01,676 [6] INFO IBTradeRealTime.app.AppMainteanceManager - Lunch Reset RTBar End.
+2016-07-04 15:21:49,304 [9] INFO IBTradeRealTime.UI.OrderManager - Total PnL : 0
+2016-07-04 15:21:49,306 [9] INFO IBTradeRealTime.UI.OrderManager - Order Executed
+2016-07-04 15:21:49,306 [9] INFO IBTradeRealTime.UI.OrderManager - *********************************************
+2016-07-04 15:21:49,467 [10] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - [Strategy] : Enter Strategy Executed!!!
+2016-07-04 15:21:49,472 [10] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - [Strategy] : Exit Strategy Executed!!!
+2016-07-04 15:21:49,473 [10] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - Executed Rule = Rev Sell Rule
+2016-07-04 15:21:49,473 [10] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - Executed Rule Remark = Place the SELL trade because RevSellLine=21053;
+2016-07-04 15:21:49,474 [10] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - ******************************************************************
+2016-07-04 16:14:00,415 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [Strategy] : Cut Loss BUY Exit Generated !!!
+2016-07-04 16:14:00,416 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [Strategy] : Dayend Exit BUY Generated !!! | MarketDataElement=IBTradeRealTime.MarketData.MarketDataElement
+2016-07-04 16:14:00,710 [9] INFO IBTradeRealTime.UI.OrderManager - Total PnL : 37
+2016-07-04 16:14:00,711 [9] INFO IBTradeRealTime.UI.OrderManager - Order Executed
+2016-07-04 16:14:00,712 [9] INFO IBTradeRealTime.UI.OrderManager - *********************************************
+2016-07-04 16:14:00,917 [10] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - [Strategy] : Exit Strategy Executed!!!
+2016-07-04 16:14:00,917 [10] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - Executed Rule = Day Exit Rule
+2016-07-04 16:14:00,918 [10] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - Executed Rule Remark = [Strategy] : Dayend Exit BUY Generated !!! | MarketDataElement=IBTradeRealTime.MarketData.MarketDataElement
+2016-07-04 16:14:00,918 [10] INFO IBTradeRealTime.StrategyImpl.AdvStrategy - ******************************************************************
+2016-07-04 16:17:01,863 [6] INFO IBTradeRealTime.app.AppMainteanceManager - Daily Dayend Export Report Start.
+2016-07-04 16:17:01,868 [6] INFO IBTradeRealTime.app.AppMainteanceManager - Daily Dayend Export Report End.
+2016-07-05 00:10:02,580 [6] INFO IBTradeRealTime.app.AppMainteanceManager - Maintenance Flags Daily Reset.
+2016-07-05 00:10:02,584 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - stgDailyReset Test 1
+2016-07-05 09:12:01,801 [6] INFO IBTradeRealTime.app.AppMainteanceManager - Morning Reset RTBar Start.
+2016-07-05 09:12:01,804 [6] INFO IBTradeRealTime.app.AppMainteanceManager - Morning Reset RTBar End.
+2016-07-05 09:15:59,208 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - Data is Ready.
+2016-07-05 09:15:59,239 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [cacluateRanges]: preData=IBTradeRealTime.MarketData.MarketDataElement
+2016-07-05 09:15:59,239 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - -----------------------------------------------
+2016-07-05 09:15:59,240 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [cacluateRanges]: trendBuy=21322
+2016-07-05 09:15:59,240 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [cacluateRanges]: sellCheck=21273
+2016-07-05 09:15:59,241 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [cacluateRanges]: revSell=21198
+2016-07-05 09:15:59,241 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - -----------------------------------------------
+2016-07-05 09:15:59,242 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [cacluateRanges]: revBuy=20864
+2016-07-05 09:15:59,242 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [cacluateRanges]: buyCheck=20780
+2016-07-05 09:15:59,242 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - [cacluateRanges]: trendSell=20730
+2016-07-05 09:15:59,243 [10] INFO IBTradeRealTime.StrategyImpl.StrategyRBreakerReverse1 - -----------------------------------------------
+2016-07-18 02:32:07,157 [9] INFO IBTradeRealTime.app.AppMainteanceManager - Init Maintenance Flags Daily Reset.
+2016-07-18 02:32:07,173 [9] INFO IBTradeRealTime.app.AppMainteanceManager - [handleDailyAllFlagsReset]: Test 1
+2016-07-18 02:32:54,481 [10] INFO IBTradeRealTime.app.AppMainteanceManager - Init Maintenance Flags Daily Reset.
+2016-07-18 02:32:54,496 [10] INFO IBTradeRealTime.app.AppMainteanceManager - [handleDailyAllFlagsReset]: Test 1
+2016-07-18 02:33:54,782 [6] INFO IBTradeRealTime.app.AppMainteanceManager - Init Maintenance Flags Daily Reset.
+2016-07-18 02:33:54,798 [6] INFO IBTradeRealTime.app.AppMainteanceManager - [handleDailyAllFlagsReset]: Test 1
+2016-07-18 02:38:08,491 [10] INFO IBTradeRealTime.app.AppMainteanceManager - Init Maintenance Flags Daily Reset.
+2016-07-18 02:38:08,507 [10] INFO IBTradeRealTime.app.AppMainteanceManager - [handleDailyAllFlagsReset]: Test 1
+2016-07-18 02:38:55,244 [6] INFO IBTradeRealTime.app.AppMainteanceManager - Init Maintenance Flags Daily Reset.
+2016-07-18 02:38:55,260 [6] INFO IBTradeRealTime.app.AppMainteanceManager - [handleDailyAllFlagsReset]: Test 1

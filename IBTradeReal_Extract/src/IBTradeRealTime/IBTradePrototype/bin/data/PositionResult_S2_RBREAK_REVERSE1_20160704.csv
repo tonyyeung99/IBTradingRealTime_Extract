@@ -1,0 +1,3 @@
+Execution Time, Current_Position, Buy_Sell, Trigger_Price, Execution_Price, PNL, REASON, RULE
+20160704  15:21:49,-1,SELL,21053,21055,0,Place the SELL trade because RevSellLine=21053;,Rev Sell Rule
+20160704  16:14:00,0,BUY,21019,21018,37,[Strategy] : Dayend Exit BUY Generated !!! | MarketDataElement=IBTradeRealTime.MarketData.MarketDataElement,Day Exit Rule

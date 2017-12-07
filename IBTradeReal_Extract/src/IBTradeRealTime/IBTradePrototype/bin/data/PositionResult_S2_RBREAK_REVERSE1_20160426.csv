@@ -1,0 +1,5 @@
+Execution Time, Current_Position, Buy_Sell, Trigger_Price, Execution_Price, PNL, REASON, RULE
+20160426  10:24:01,1,BUY,21227,21226,0,Place the BUY trade because RevBuyLine=21227;,Rev Buy Rule
+20160426  10:26:03,0,SELL,21202,21203,-23,,Cutloss Loss Rule
+20160426  14:41:59,1,BUY,21227,21227,0,Place the BUY trade because RevBuyLine=21227;,Rev Buy Rule
+20160426  15:59:24,0,SELL,21401,21401,174,,Profit Target Rule

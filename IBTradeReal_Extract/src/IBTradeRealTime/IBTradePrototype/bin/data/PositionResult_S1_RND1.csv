@@ -1,0 +1,6 @@
+Execution Time, Current_Position, Buy_Sell, Trigger_Price, Execution_Price, PNL, REASON, RULE
+20151208  11:33:07,1,BUY,21774,21774,0,,Random Rule
+20151208  11:34:44,0,SELL,21785,21782,8,,Exit Random Trade
+20151208  11:34:48,1,BUY,21784,21784,0,,Random Rule
+20151208  11:56:13,0,SELL,21795,21791,7,,Exit Random Trade
+20151208  11:56:21,-1,SELL,21796,21798,0,,Random Rule

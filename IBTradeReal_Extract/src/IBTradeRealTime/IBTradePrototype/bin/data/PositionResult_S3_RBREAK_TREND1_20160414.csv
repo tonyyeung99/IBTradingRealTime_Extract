@@ -1,0 +1,3 @@
+Execution Time, Current_Position, Buy_Sell, Trigger_Price, Execution_Price, PNL, REASON, RULE
+20160414  09:21:16,1,BUY,21455,21455,0,Place the BUY trade because TrendBuyLine=21455;,Trend Buy Rule
+20160414  09:53:27,0,SELL,21328,21330,-125,Cut Loss SELL trade| tickClose = 21457 | cutLossPrice = 21328 ,Cutloss Loss Rule
